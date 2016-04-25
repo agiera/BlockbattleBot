@@ -1,0 +1,3051 @@
+move: <Bot.Game.Game.Game object at 0x0000016BD683DBE0>
+itr: 1, 0
+lines: <Bot.Game.Game.Game object at 0x0000016BD89150F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E9B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891EB38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891ECC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891EE48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891EFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89217B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89252B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89255C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89258D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89293C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89296D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89299E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C4E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C828>
+move: 28
+itr: 1, 0
+lines: <Bot.Game.Game.Game object at 0x0000016BD89154A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CD30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CF60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB11D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB1358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB14E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB17F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB1828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB1978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB1B00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB1E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB1E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB1F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB3160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB32E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB3470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB35F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB3780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB3908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB3A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB3C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB3DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB3F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB60F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB6F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB96A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB99B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9B38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC7B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBCAC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBCC50>
+itr: 54, 54
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CC18>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC02E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC05C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC08D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC0BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC0EF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD00F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD0550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89154E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD0668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD0B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD0E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE4198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE44A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE47B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE4AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE4DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF3128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF3438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF3748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF3A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF3D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D010B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D01278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D016D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D019E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D01BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D10048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D10208>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D10518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D10978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D10C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D10F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D1F2E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D1F5F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D1F908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D1FC18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D1FF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2E278>
+itr: 98, 54
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD683DAC8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2E940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2EBE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2EEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D3C240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D3C550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D3C860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D3CB70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D3CD30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D4B1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D4B4E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D4B6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D4BB00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D4BE10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D59160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D59470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D59780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D59940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D59DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D670F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D67400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D67710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D67A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D67D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D76080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D76390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D76550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D769B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D76CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D76FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D861D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D86630>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D869B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D86C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D86F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D952B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D955C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D958D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D95BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D95EF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DA50F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DA5550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DA5860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DA5B70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DA5D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DB31D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DB34E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DB37F0>
+itr: 145, 54
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2E630>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DB3E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC1198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC14A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC17B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC1AC8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC1E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DD1128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DD12E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DD1748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DD1908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DD1D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDF0B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDF3C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDF6D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDF9E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDFCF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DEE048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DEE358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DEE668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DEE978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DEEC88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DEEF98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFD2E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFD5F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFD908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFDAC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFDF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0C278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0C438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0C898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0CBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0CEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E1C208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E1C518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E1C828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E1CB38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E1CE48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2A198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2A358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2A7B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2AAC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2ADD8>
+itr: 187, 54
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2E3C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E38470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E38780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E38A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E38DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E460F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E46400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E46710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E46A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E46D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E55080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E55390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E556A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E559B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E55CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E55FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E65320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E65630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E65940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E65C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E65F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E742B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E745C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E748D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E74BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E74EF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83240>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E914E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E916A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E91B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E91E10>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA11D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA1470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA1630>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA1898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA1C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB00F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB0400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB0710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB0A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB0D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBF080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBF390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBF6A0>
+itr: 235, 54
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E38208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBFCF8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBFEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8ECD358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8ECD668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8ECD828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8ECDB38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8ECDF98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDC2E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDC5F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDC908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDCC18>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDCDD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EEB278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EEB588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EEB898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EEBA58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EEBEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FB208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FB518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FB828>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FBBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FBE48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9709198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97094A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97097B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9709AC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9709C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9717128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9717438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9717748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9717A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9717D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9717F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97263C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97266D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9726898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9726CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9735048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9735358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9735668>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97359B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9735C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9735F98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9745198>
+itr: 279, 54
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBFA58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97457F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9745C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9745F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97532B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9753470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9753780>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97539E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9753EF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9762240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9762550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9762860>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9762A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9762E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9762FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9770390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97707F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9770B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9770E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9780160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9780470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9780780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9780A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9780DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD978F0F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD978F400>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD978F780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD978F8D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD978FD30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD979E080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD979E390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD979E6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD979E9B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD979ECC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD979EFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AD320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AD630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AD940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97ADB00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97ADF60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BC2B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BC5C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BC8D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BCBE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BCEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CC240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CC550>
+itr: 325, 54
+lines: <Bot.Game.Game.Game object at 0x0000016BD97456A0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CCBE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CCEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DA208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DA518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DA828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DA9E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DAE48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E8198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E84A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E87B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E8AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E8DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F6128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F6438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD88F9C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F6828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F6B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F6E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9807198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9807358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98077B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9807AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9807DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9816128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9816438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9816748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9816A58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9816C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98250B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98253C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9825588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98259E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9825CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9834048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9834358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9834668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9834978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9834C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9834F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98432E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98435F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9843908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9843C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9843F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852278>
+itr: 370, 54
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CC908>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9861278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9861588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9861748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9861BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9861EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD986F208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD986F518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD986F828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD986FB38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD986FE48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD987E198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD987E4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD987E7B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD987EAC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD987EDD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD988D128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD988D438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD988D748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD988DA58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD988DD68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD989B0B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD989B3C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD989B6D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD989B9E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD989BCF8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD989BEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98AB358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98AB668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98AB828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98ABC88>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98ABE48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98BA198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98BA5F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98BA908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98BAC18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98BAF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9EB8>
+itr: 414, 54
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CC710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D8550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D8860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D8B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D8E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D8FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E64E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E67F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E6B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E6E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F5160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F5470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F5780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F5A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F5DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99040F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9904400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9904710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9904A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9904D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9912080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9912390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99126A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99129B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9912CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9912FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9921320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9921630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99217F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9921C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9921F60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9930160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99305C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99308D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9930BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9930EF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9940240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9940550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9940860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9940B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9940E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD994E1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD994E4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD994E7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD994EB00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD994EE10>
+itr: 459, 54
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D82B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD995D4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD995D7B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD995DAC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD995DDD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD996B128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD996B438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD996B748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD996BA58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD996BD68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD997B0B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD997B3C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD997B588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD997B898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD997BCF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998A048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD998A208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998A668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998A978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD998AB38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998AF98>
+pieces: 70
+lines: <Bot.Game.Game.Game object at 0x0000016BD999A2E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD999A4A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD999A7B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD999AAC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD999AF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B7208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B7518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B7828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B7B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B7E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C5198>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C5518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C57B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C5AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C5DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D4128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D42E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D4748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D4A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D4D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E30B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E33C8>
+move: 39
+itr: 1, 0
+lines: <Bot.Game.Game.Game object at 0x0000016BD89155C0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD88ADBE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBCEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8906828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD65511D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C90B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C93C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C96D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C99E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C080>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C2B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C5C0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E34E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3D30>
+itr: 45, 45
+lines: <Bot.Game.Game.Game object at 0x0000016BD89151D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E9B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891ECC0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD891EFD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD89251D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925C50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B12B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B15C0>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B16D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B1BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B1EF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B3240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B3550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B3710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B3B70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B3D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B41D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B44E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B47F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B4B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B4E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B6160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B6470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B6780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B6A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B6DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B70F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B7400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B7710>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B7A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B7BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B8080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B8390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B8550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B89B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B8CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B8FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BB320>
+lines: None
+lines: None
+itr: 87, 45
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BB978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BBB38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BBE48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BA198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BA5F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BA908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BAC18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BAF28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BD128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BD588>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BD8D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BDBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BDEB8>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BDFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BF518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BF828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BF9E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BFCF8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BFF98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C0358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C07B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C0AC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C0C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C2128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C22E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C25F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C2908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C2D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C2F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C53C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C5588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C59E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99C5CF8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D40B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D4358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D4668>
+itr: 123, 45
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BB6D8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D4D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D4FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99ED320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99ED4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99ED940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EDC50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EDF60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EE2B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EE5C0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EE940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EEBE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EEDA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EF240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EF550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EF710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EFB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EFE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC01D0>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC02E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC07F0>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC0908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC0E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC1160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC1470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC1780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC1940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC1DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC60F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC6400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC6710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC6A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC6D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC8080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC8390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC86A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC89B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC8CC0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC8FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCA1D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCA4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCA940>
+itr: 164, 45
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99BB4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCAF98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCB2E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCB4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCB908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCBC18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCBF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCD278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCD438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCD898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCDBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCDEB8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD0278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD0518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD06D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD0B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD0E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD1198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD14A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD1668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD1978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD1DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD1F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD3438>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD3780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD3A58>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD3DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD40B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD43C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD46D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD49E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD4CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD8048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD8358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD8668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD8978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD8C88>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD8E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD72E8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD7668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD7908>
+lines: None
+itr: 204, 45
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CCACF8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD7FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD92B0>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD93C8>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD96D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD9BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD9DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDA240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDA550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDA860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDAB70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDAD30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDD1D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDD390>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDD860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDDB00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDDE10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDF160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDF470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDF630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDFA90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CDFC50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CEA0F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CEA400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CEA710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CEAA20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CEAD30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9884080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9884390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9884550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98849B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9884CC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9884E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD989C320>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD989C6A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD989C7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD989CC50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD989CF60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F1160>
+itr: 242, 45
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD7CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F1908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F1C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F1F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD980C278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD980C588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD980C748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD980CBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD980CEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9821208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9821518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98216D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9821B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9821E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D39198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D394A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D39668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D39AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D39DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D50128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D50438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D50748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D50A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D50D68>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D640F0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D64400>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D64588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D649E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D64CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FE048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FE208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FE668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FE978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FEC88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD96FEF98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9718198>
+itr: 277, 45
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F16A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9718940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9718C50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9718E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD972E2B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD972E470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD972E8D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD972EA90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD972EEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97C7240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97C7550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97C7860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97C7B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97C7E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DB1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DB4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DB7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DBB00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DBCC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9832160>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9832320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9832780>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9832AC8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9832DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9832F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD984A400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD984A710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD984AA20>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD984ABE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9862080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9862390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98626A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98629B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9862B70>
+itr: 310, 45
+lines: <Bot.Game.Game.Game object at 0x0000016BD97186A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F8208>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F86D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F8978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F8B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F8F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD990F2E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD990F4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD990F908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD990FC18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD990FF28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9928128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9928438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9928898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9928BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9928EB8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9928FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9938518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99386D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99389E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9938CF8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9938F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD994F4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD994F7B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD994FAC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD994FDD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD994FF98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD996A438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD996A5F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD996AA58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD996AD68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD996AF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D003C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D00588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D009E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D00CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D18048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D18358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D18668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D18978>
+itr: 349, 45
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F80F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D18FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2F320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2F4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2F940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2FB00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2FF60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D88160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D885C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D888D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D88BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D88EF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D9F240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D9F550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D9F860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D9FB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D9FE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DB31D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DB34E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DB37F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DB3B00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DB3CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCB160>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCB4A8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCB7B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCB940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCBDA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDF198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDF550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDF668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDFB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDFE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DF8080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DF8390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DF8550>
+itr: 383, 45
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D18D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DF8BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0C048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0C278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD88F9BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC0F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBCB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBCE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0C438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0CA20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0CD30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E0CF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2B240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2B550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2B710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2BB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E2BE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E821D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E824E0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E82828>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E82B38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E82CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E95160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E95470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E95780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E95940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E95DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF0F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF8D0>
+itr: 416, 45
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DF8A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAFF60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EC2400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EC2710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EC2A20>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EC2BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDD080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDD390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDD6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDD9B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDDB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EDDFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98B0320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98B0630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98B0940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98B0B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98B0F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98CB2B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98CB5C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98CB8D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98CBBE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98CBEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E0240>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E0588>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E0898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E0A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E0E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99751D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99754E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99756A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9975B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9975E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D630>
+itr: 450, 45
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAFE48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998DDD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A3128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A3438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A3748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A3A58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A3C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E370B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E373C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E376D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E379E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E37BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E4D048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E4D358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E4D668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E4D978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E4DB38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E4DF98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E652E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E655F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E65908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E65C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E65F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD973E278>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD973E5C0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD973E8D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD973EA58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD973EEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9754208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9754518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97546D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9754B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9754E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9769198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97694A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9769668>
+itr: 485, 45
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD998DB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9769E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9781160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9781470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9781630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9781940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9781DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97940F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97942B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9794710>
+pieces: 100
+lines: <Bot.Game.Game.Game object at 0x0000016BD9794A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9794D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AB080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AB390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AB6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AB9B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97ABCC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97ABFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FB320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FB630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FB940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FBC50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FBF60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0A2B0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0A5F8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0A908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0AA90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0AEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A271D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A274E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A276A0>
+move: 56
+itr: 1, 0
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E3C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E0B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E5C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E6D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E8D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E9E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD891ECF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891EE48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891EEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891EDD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89060F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CE48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC0F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC5C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC8D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBCC88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBCBE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915390>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF278>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAF8D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAFE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAFF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAFEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EAFE10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D4E0>
+itr: 38, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E358>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998DEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A27E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A27358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A27550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A27A90>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8924128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8924278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89246D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89249E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8924CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925358>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925978>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8925F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89272E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89275F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8927908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8927C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8927F28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892B128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892B438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892B898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892BBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892BEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8928208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8928518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8928828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8928B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8928E48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8928F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892A4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892A7B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892A978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892ADD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891F0B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891F3C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD891F588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891F9E8>
+itr: 85, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D7B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD891FEF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89296A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89299B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929FD0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8922390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8922630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8922940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8922C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8922F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892F2B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892F5C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892F8D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892FBE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892FEF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892E0F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892E550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892E860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892EB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892EE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A281D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A284E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A287F0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A28B70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A28CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F0160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F0470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F0780>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F0B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F0DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F20F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F2400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F2710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F2A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F2D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F4080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F4390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F46A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F49B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F4CC0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F4FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F6320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F6630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F6940>
+itr: 130, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD891FDA0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F6F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F72E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F75F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F7908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F7C18>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F7DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FA278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FA588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FA898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FABA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FAD68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FB208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FB518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FB828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FBB38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FBCF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FD198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FD4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FD7B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FDAC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FDC88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FF128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FF438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FF748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FFA58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99FFC18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A020B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A023C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A02588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A029E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A02BA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A02EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A03358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A03668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A03978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A03C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A03F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A052E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A055F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A057B8>
+itr: 170, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F6CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A05F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A072B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A07470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A078D0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A07C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A07EF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A08240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A08550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A08860>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A08A20>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A08D30>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0B240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0B4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0B7F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0B9B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0BE10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0C160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0C470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0C780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0CA90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0CDA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A190F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19D30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A19EF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CE240>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CE550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CE9B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CEB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CEFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CC320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CC630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CC940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CCC50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99CCE10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D22B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D25C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D28D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D2BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D2DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D1240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D1550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D1860>
+itr: 215, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A05CC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D1D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D5208>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D53C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D5828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D5B38>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D5EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D8198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D84A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D87B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D8AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D8DD8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B1198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B1438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B1748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B1A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B1D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B40F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B4470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B4780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B4A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B4DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EF0B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EF080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EF390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EF940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EFC50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99EFFD0>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97790F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97795F8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9779978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9779C18>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9779F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD979D278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD979D588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD979D898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD979DA58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD979DD68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A5208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A5518>
+lines: None
+lines: None
+lines: None
+itr: 254, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD99D1C18>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A59B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A5E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A5FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9882390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98827F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9882B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9882E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A1160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A1470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A1780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A1A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A1DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD976C0F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD976C400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD976C710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD976CA20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD976CD30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD976CEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9749390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97496A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97499B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9749CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9749FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E6D320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E6D630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E6D7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E6DC50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E6DF60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E3A160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E3A5C0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E3A780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E3AA90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E3AEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E55240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E55550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E55860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E55B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E55E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E1A1D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E1A390>
+itr: 294, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A58D0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E1AB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E1AE48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFB198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFB4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFB7B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFB978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DFBDD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E21128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E21438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E21748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E21A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E21D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC00F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC0470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC0780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC0A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CC0DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD6048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD6358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD6668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD6978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD6C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CD6F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB92E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB95F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CB9F28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9971128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9971588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9971898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9971A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9971EB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9971FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99953C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9995828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9995B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9995E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD985F198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD985F358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD985F7B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD985F978>
+itr: 336, 38
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98A5860>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD985FFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD983E470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD983E630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD983EA90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD983EDA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98650F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9865400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9865710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9865A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9865D30>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D10F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D1390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D16A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D19B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D1B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98D1FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C6320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C64E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C6940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C6C50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C6E10>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E7160>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E7630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E78D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E7BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98E7DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F7240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F7550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F7860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F7B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98F7E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99131D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9913390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99137F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9913B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9913E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD982C160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD982C470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD982C780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD982C940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD982CDA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F40F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F4400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F4710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F4A20>
+itr: 381, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD985FE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98190B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9819278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98196D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98199E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9819BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9716048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9716358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9716668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9716978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9716C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9716F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97012E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97015F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97017B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9701C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9701F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD971F278>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD971F5C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD971F898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD971FBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD971FEB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD971FFD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E853C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E85828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E85B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E85E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E834A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E837B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E83F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA6438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA65F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA6908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD88ADBE0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8906898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD65511D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9748>
+itr: 424, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD97F4DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9E48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98529B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852CC0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E30B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E35F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E39E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA6B70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EA6E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D48320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D48630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D48940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D48C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D48F60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D6A160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D6A5C0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D6A780>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D6AC50>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D6AF60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF4240>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF4400>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF48D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF4B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF4E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CF4FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D0F390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D0F7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D0FB00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D0FE10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2F160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2F470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2F780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2FA90>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D2FE10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99370F0>
+itr: 466, 38
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9937748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9937A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9937D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99500B8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9950438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99506D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99509E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9950BA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9950EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E1358>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E16D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E1978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E1C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E1F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BA2E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BA5F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BA908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BAAC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97BADD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DB278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DB588>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DB8D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DBBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DBEB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97DBFD0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8ED7588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8ED7828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8ED7B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8ED7E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBE198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBE4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBE7B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBEAC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBEDD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE4128>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE44A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE4748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE4A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE4D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC60B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC63C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC66D8>
+itr: 508, 38
+pieces: 160
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC6D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC5080>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC5400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC56A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC59B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC5B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DC5FD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DE5320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DE5630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DE5940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DE5C50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DE5E10>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A3F160>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A3F470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A3F780>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A3F9E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A3FEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A4E240>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A4E400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A4E860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A4EB70>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A4EEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A5C1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A5C4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A5C7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A5CB00>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A5CE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A6A160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A6A470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A6A780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A6A940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A6ADA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A790F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A79400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A79710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A79A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A79D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A89080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A89390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A89550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A899B0>
+move: 63
+itr: 1, 0
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998DC50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD998DEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998DE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998DAC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD88F9C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915BA8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915CC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8915F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD682B390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBCF60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98525C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98528D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852B00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98523C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9852F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C0B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C3C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C7F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C320>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C4E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CA20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892C940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E33C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E34E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99E3D30>
+lines: None
+itr: 43, 43
+lines: <Bot.Game.Game.Game object at 0x0000016BD998D978>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9748>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9B00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9937278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9937828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9937978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9937E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9937208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A27E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A27080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A27320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A27BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A89B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A89128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A891D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A896A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A89DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A97320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A97630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A97940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A97C50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A97E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89242B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89245C0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8924780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8924BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8924DA0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD89260F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8926550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8926860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8926B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8926E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89251D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89254E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89257F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD89259B0>
+itr: 81, 43
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9160>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD89231D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89234A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89237B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8923AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8923DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8923F98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8920438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8920748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8920A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8920D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89270B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8927278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89276D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8927898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8927CF8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8927EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892B358>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892B518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892B978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892BC88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892BF98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89282E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89285F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8928908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8928AC8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8928F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892A278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892A438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892A898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892AA58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892AD68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921B38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8921CF8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD891F208>
+itr: 118, 43
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C91D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891F7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891FB00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891FE10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929A90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8929DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD89220F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD89222B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8922710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8922A20>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8922BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892F080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892F390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892F6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892F9B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD892FB70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892FFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892E320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892E630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892E940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892EC50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892EF60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A982B0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A98630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A988D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A98BE0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A98F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A99240>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A99400>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A99710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A99B70>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A99E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9A1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9A4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9A7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9AB00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9AE10>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9B1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9B470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9B780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9B940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9BDA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9C0F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9C400>
+itr: 164, 43
+lines: <Bot.Game.Game.Game object at 0x0000016BD891F550>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9CA90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9CD68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9E0B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9E3C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9E6D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9E898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9ECF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9F048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9F358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9F668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9F978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9FC88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9FF98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA02E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA05F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA0908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA0C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA0F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA1278>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA1588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA1748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA1BA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA1D68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA2208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA2518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA2828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA29E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA2E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA4198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA4358>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA4828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA4978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA4DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA5128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA5438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA5748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA5908>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA5DD8>
+itr: 202, 43
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9C7B8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA6438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA6710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA6A20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA6D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA7080>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA7240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA76A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA7860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA7CC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA7E80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA9320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA9630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA9940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA9C50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AA9E10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAA2B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAA5C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAA8D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAABE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAADA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAB240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAB550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAB860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AABB70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AABD30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAC1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAC4E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAC6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AACB00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AACCC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AACFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAD470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAD780>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AADA90>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AADDA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAF0F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAF400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAF710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAF8D0>
+itr: 241, 43
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A9C5C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A090B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A09278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A09588>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A099E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A09CF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A17048>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A17358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A17668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A17828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A17B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A17F98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F6198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F64A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F6908>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F6C88>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99F6F28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0C128>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0C3C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0C898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0CBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A0CEB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE3208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE3518>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE3828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE3B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE3E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE2198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE24A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE27B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE2978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CE2DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9772128>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97724A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9772748>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9772A58>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9772D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9772F28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97813C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97816D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97819E8>
+itr: 281, 43
+lines: <Bot.Game.Game.Game object at 0x0000016BD9AAFDD8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AF0B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AF390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AF6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AF9B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AFCC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97AFE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A48320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A48630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A48940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A48C50>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A48F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A602B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A605C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A608D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A60BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9A60EF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9901240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9901550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9901860>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9901B70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9901D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98FF1D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98FF390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98FF7F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98FFB00>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98FFE10>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD98FFFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9920470>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9920780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9920940>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9920E10>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9920F60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E8D400>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E8D710>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E8DA20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E8DD30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E7E080>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E7E390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E7E6A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E7E860>
+itr: 321, 43
+lines: <Bot.Game.Game.Game object at 0x0000016BD9781DA0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E7EEB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD982B208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD982B668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD982B828>
+lines: <Bot.Game.Game.Game object at 0x0000016BD982BC88>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD982BF98>
+lines: <Bot.Game.Game.Game object at 0x0000016BD980E2E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD980E4A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD980E908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD980EC18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD980EF28>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9812278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9812438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9812898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9812BA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9812EB8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9979240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9979518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99796D8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9979BA8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9979EB8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9978198>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99784A8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99787B8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9978B38>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9978DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8128>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8438>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99A8C18>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D920B8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D923C8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D926D8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D929E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D92CF8>
+itr: 357, 43
+lines: <Bot.Game.Game.Game object at 0x0000016BD8E7ED68>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D76390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D766A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D769B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D76CC0>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D76DD8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CC320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CC630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CC940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CCC50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CCE10>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E1160>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E1470>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E1940>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E1BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97E1DA0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CF240>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CF550>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CF668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CFB70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD97CFD30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDD1D0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDD4E0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDD7F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDD9B0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDDE10>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCC160>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCC470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCC630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCCA90>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DCCBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDA0F0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDA400>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDA5C0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDAA20>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDAD30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8DDAEF0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBD390>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBD6A0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBD9B0>
+itr: 396, 43
+lines: <Bot.Game.Game.Game object at 0x0000016BD8D76128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EBDEB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB2208>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB2668>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB2978>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB2C88>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EB2E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE82E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE85F8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE8908>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE8C18>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8EE8D30>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99DB278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99DB438>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99DB898>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99DBBA8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99DBEB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99DBFD0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B9518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B96D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B99E8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD99B9E48>
+lines: <Bot.Game.Game.Game object at 0x0000016BD9765198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD9765358>
+lines: <Bot.Game.Game.Game object at 0x0000016BD98C9BE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E630>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891E940>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD891ECF8>
+lines: <Bot.Game.Game.Game object at 0x0000016BD891EF60>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CBE0>
+lines: <Bot.Game.Game.Game object at 0x0000016BD892CE80>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC320>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBC550>
+lines: <Bot.Game.Game.Game object at 0x0000016BD8CBCC50>
+lines: None
+pieces: 70
+pieces: 10
+pieces: 40

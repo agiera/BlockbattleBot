@@ -1,0 +1,4526 @@
+move: <Bot.Game.Game.Game object at 0x0000019AEAE5FC18>
+itr: 1, 0
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED67F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFC18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFF28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE30F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE38D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE69B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEAAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEAC50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEAF60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEAF98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED2E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED5F8>
+move: 75
+itr: 1, 0
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEC8E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED6D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDC88>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDFD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2612E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB261320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB261470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2615F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB261908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB261940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB261A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB261C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB261DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB261F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2630F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263BA8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB263F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB265208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB265390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2656A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2656D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB265828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2659B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB265B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB265CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB265E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB265FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26A198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26A320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26A4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26A630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26A7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26A940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26AAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26AC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26ADD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26AF60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DA58>
+itr: 54, 54
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED9E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2710B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2713C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2716D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2719E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB271CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEC8EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED67F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6AC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2837B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296748>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2A50B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2A53C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2A56D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2A5898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2A5CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B4048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B4208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B4668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B4978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B4B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B4F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C32E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C35F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C3908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C3C18>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C3DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D2278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D2438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D2898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D2BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D2EB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D2FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0E48>
+itr: 102, 54
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2EE4E0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2EE860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2EEB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2EEE10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FD160>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FD320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FD780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FDA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FDDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30B0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30B400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30B710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30BA20>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30BB38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30BEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31A390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31A550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31A860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31ACC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31AFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB329320>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3296A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB329940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB329C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB329F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3382B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB338470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB338780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB338BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB338DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB348240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB348550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB348710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB348B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB348E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3571D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3574E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3577F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3579B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB357E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB365160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB365470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB365780>
+itr: 145, 54
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0F60>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB365E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB373128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB373438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB373748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB373A58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB373C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3830B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3833C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3836D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3839E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB383CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB392048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB392358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB392668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB392978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB392C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB392F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A12E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A15F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A1908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A1C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A1F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3B0278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3B0588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3B0898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3B0BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3B0EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3BE208>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3BE3C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3BE828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3BEB38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3BECF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3CE198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3CE4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3CE7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3CEAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3CEDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DC128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DC438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DC748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DC908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DCD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EA0B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EA278>
+itr: 189, 54
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EAA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EAD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F9080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F9390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F9550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F99B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F9CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F9FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB408320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB408630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB408940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB408C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB408F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4182B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4185C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4188D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB418BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB418EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB427240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB427550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB427860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB427B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB427E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4351D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4354E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4357F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB435B00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB435CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4530F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB453400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB453710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB453A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB453D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB463080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB463390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4636A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4639B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB463CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB463FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB471320>
+itr: 234, 54
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EA748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB471978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB471B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB471F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4802E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4805F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB480908>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB480C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB480F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB48F278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB48F438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB48F898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB48FBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB48FEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49D208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49D518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49D828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49D9E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49DE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4AD198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4AD4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4AD7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4ADAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4ADDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BB128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BB2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BB748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BBA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BBD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4CA0B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4CA3C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4CA6D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4CA9E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4CABA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D9048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D9358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D9668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D9978>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D9CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D9F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCE82E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCE85F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCE8908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCE8C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCE8F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF7278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF7588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF7898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF7BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF7EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD06208>
+itr: 284, 54
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4716A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD06860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD06B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD06E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD141D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD144E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD147F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD14B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD14E10>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD14FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD22320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD22780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD22940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD22C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD310F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD31400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD31710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD318D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD31D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD42080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD42390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD426A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD42860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD42CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD42FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD51320>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD516A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD517F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD51C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD51F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD5F2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD5F5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD5F8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD5FBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD5FEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD6E240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD6E550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD6E860>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD6EA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD6EE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7C1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7C4E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7C6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7CB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7CE10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD8C160>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD8C320>
+lines: None
+itr: 330, 54
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4714E0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD8CB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD8CDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD9A128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD9A438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD9A748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD9AA58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD9AC18>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD9AF28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA93C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEBAB38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AE8B211D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA9978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA9DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA9F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDB9438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDB9748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDB9A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDB9D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDC70B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDC73C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDC76D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDC79E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDC7CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD7048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD7208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD7668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD7978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD7B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD7F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE62E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE65F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE6908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE6C18>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE6DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF5128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF5588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF5898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF5BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF5EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE04208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE04518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE04828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE049E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE04E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE124A8>
+itr: 376, 54
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD8C588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE21198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE214A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE217B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE21AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE21DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE30128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE302E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE30748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE30A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE30D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3F0B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3F3C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3F6D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3F9E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3FCF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4E048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4E208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4E668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4E978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4EC88>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4EE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5E2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5E5F8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5E978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5EAC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5EDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6D278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6D588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6D898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6DBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6DEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE7B208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE7B518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE7B828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE7B9E8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE7BEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8A198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8A4A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8A668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8AAC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8AC88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98A58>
+itr: 423, 54
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEA70F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEA7400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEA7710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEA78D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEA7D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB6080>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB6240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB66A0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB6A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB6CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB6FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC5320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC54E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC57F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC5C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC5F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED42B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED45C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED48D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED4BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED4EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE3240>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE3400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE3860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE3B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE3E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEF21D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEF24E0>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEF25F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEF2B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEF2E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF00160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF00470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF00780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF00A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF00DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0F0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0F400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0F710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0FA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0FD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF1E080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF1E390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF1E6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF1E9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF1ECC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF1EFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2E320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2E630>
+itr: 472, 54
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2EC88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2EF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3D2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3D5F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3D7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3DC18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3DF28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4C278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4C588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4C898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4CBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4CEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5A208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5A518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5A828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5AB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5AE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF69198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF694A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF697B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF69AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF69DD8>
+pieces: 70
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF77128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF77438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF77748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF77A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF77D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF77F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF873C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF876D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF87898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF87CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF96048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF96358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF96668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF96978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF96C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF96F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA52E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA55F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA5908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA5C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA5F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4588>
+move: 24
+itr: 1, 0
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED65C0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED67B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6F60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEC8668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12160>
+lines: <Bot.Game.Game.Game object at 0x0000019AE8DE71D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE124A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE122E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12EB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE980F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE985C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED9E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB42E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4828>
+itr: 44, 44
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFA90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE60F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE62B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB272080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB272390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2726A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2729B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB272CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB272FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB271320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB271630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB271940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB271C50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB271E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2782B0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2785F8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB278908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB278BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB278EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB277240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB277550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB277860>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB277A20>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB277D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26F1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26F4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26F7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26FB00>
+itr: 79, 44
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27A198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27A4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27A7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27AAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27ADD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27C128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27C438>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27C7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27CA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27CD68>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27D128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27D278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27D588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27D898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27DCF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27F048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27F208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27F668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27F978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27FC88>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB27FDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2822E8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB282668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB282908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB282C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB282F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283EB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB283FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB285518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB285828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB285B38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB285CF8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB286208>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB286358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2867B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB286AC8>
+lines: None
+itr: 119, 44
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4CF8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB286FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB288320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB288780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB288A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB288DA0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB288F60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28C2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28C710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28CA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28CD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28B080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28B390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28B6A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28B860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28BCC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28BFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28F320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28F630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28F940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28FB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28FF60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28E2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28E5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28E8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28EBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB28EEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB291240>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2915C0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2918D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB291A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB291E80>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB291FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2934E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2937F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB293B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB293E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297160>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2960F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296400>
+itr: 162, 44
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26FC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2993C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB299588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2999E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB299CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29A048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29A358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29A668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29A828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29AC88>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29AF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29E2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29E5F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29E7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29EC18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29EF28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29F278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29F588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29F898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29FBA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB29FD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF60208>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF60588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF60828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF60B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF60E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF61198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF614A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF617B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF61AC8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF61C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF63128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF632E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF635F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF63A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF63D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF660B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF663C8>
+itr: 202, 44
+lines: <Bot.Game.Game.Game object at 0x0000019AEB296780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF66A20>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF66DA0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF66EF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF68240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF686A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF689B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF68CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF68FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF691D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF69630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF69940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF69B00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF69E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6A2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6A5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6A8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6ABE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6AEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6C240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6C550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6C860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6CB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6CE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6F1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6F4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6F7F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6F9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6FE10>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6FF28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF83320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF83780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF83940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF83C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFBD0F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFBD2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFBD710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFBD8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFBDD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFCD080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFCD390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFCD6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFCD9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFCDCC0>
+itr: 245, 44
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF66748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDC208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDC668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDC828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDCC88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDCF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE712E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE715F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE717B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE71C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE71F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE89278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE89588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE89898>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE899B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE89EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2E208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2E518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2E828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2E9E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2ECF8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF2EF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF394A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF39668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF39AC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF39C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4F128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4F438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4F748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4FA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4FD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA60B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA63C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA66D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA69E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA6CF8>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA6E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBC358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBC668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBC978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBCC88>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBCE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD62E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD65F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD6908>
+itr: 289, 44
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDC0B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD6F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2AB2B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2AB470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2AB8D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2ABA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2ABEF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C30F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C3550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C3860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C3B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2C3E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2DB1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2DB4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2DB7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2DBB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2DBE10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB471160>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB471320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB471780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB471940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB471DA0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB489128>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB489438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB489710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB489A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB489D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49E080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49E390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49E550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49E9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49ECC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49EFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B8320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B8630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B8940>
+itr: 324, 44
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD6A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B8F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D02E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D05F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D0908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D0C18>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D0DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE6278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE6588>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE6908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE6BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDE6EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDFC208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDFC518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDFC828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDFC9E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDFCCF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE14198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE144A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE147B8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE14B38>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE14E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2A128>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2A4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2A748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2AA58>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2AB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3F0B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3F3C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3F6D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3F898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE3FCF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5A048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5A208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5A668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5A828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5AB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE5AF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEEF2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEEF5F8>
+itr: 363, 44
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B8CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEEFC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEEFF60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF065C0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB320240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB320550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB320860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB320B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB320E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AE8DFA2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DC18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB336080>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3362E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB336748>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB336A90>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB336DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3540B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3543C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3546D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3549E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB354CF8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB354EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB369358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB369668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB369978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB369C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB369F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3842E8>
+itr: 399, 44
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEEF978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384F98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB396198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3964A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3967B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB396AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB396F28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3AE128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3AE588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3AE898>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3AEC18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3AEEB8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C2278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C2518>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C2630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C2B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C2E48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C2F98>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DB2B0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DB828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DBAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DBDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB42F128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB42F438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB42F748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB42FA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB42FD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4480B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4483C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4486D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4489E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB448BA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB448EB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB45F208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB45F668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB45F828>
+itr: 436, 44
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3846D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB45FE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF5320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF5630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF5940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF5B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF5F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0A2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0A5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0A8D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0AA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0AEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD24240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD24550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD24860>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD24A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD24E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD381D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD384E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD387F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD38B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD38E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4D160>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4D4A8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4D7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4DA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4DDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD640F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD64400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD64710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD648D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD64D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7F080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7F390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7F6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7F9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7FCC0>
+itr: 472, 44
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB45FD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94668>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD949E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94F98>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E9358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E95F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E9908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E9C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E9F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FD278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FD588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FD898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FDBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FDEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB314208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB314518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB314828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB314B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB314E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EA198>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EA4E0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EA7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EAAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3EADD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB401128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB401438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB401748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB401908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB401D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB418048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4180F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB418400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB418710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB418A20>
+itr: 507, 44
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD940B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEAD240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEAD6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEAD9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEADCC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEADE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC1320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC1630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC1940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC1C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC1F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED82B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED85C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED88D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED8BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBED8EF0>
+pieces: 100
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEB240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEB550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEB860>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEBA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEBE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF91D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF94E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF97F0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF9B38>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF9E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007DA0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC025080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC025390>
+move: 55
+itr: 1, 0
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDCC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDE80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DC18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3840F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3847F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3849B0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384C18>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384BE0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94CC0>
+itr: 33, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED860>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0256D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC025160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0258D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC025BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF080>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF6A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFCC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE5320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE54E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE5940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE5C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE5F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEB2B0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEB630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEB780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEBBE0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEBF60>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE62B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE91D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE94E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE97F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE9B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE9E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3DA0>
+itr: 69, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEAA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEAD68>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE1128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE13C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE16D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE19E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE1BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2208>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2C88>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEF2E8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEF668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEF908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEFC18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEFF28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE0278>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE05F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE0898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE0BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE0EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE2208>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE23C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE2828>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE2940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE2CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE3198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE3358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE37B8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE3B00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE3C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE6128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE6438>
+itr: 106, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA198>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE6AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE6DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE50F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE5400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE5710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE58D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE5D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE8080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE8390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE86A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE8860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE8CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE8FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEB320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEB630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEB7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEBC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEBF60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEA2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEA5C0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEA940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEAA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEAEF0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEC2B0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEC5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFEC860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFECB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFECE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF01D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF04E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF07F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF0B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF0E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF1160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF1470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF1780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF1A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF1DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF30F0>
+itr: 145, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE67B8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF3780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF3A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF3D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF40B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF43C8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF4748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF49E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF4BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF7048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF7208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF7668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF7978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF7C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF7F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF92E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF95F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF9908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF9C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF9F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFA278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFA588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFA898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFAA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFAEB8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFC278>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFC588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFC828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFCB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFCE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFD198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFD4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFD7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFDAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFFDDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC000128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC000438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC000748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC000A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC000D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0020B8>
+itr: 185, 33
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFE65F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC002710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC002A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC002D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC004080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC004390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0046A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0049B0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC004D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC004FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC005320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC005630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0057F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC005C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC005F60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0075C0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC007DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016240>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016860>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC016FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA04E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA06A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA0B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA0E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA2160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA2470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA2780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA2940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA2DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA30F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA3400>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA35C0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA38D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA3D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA9080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA9390>
+itr: 226, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEC002438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA99E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA9BA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA9EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA5358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA5668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA5828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA5C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA5F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC92E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC95F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC9908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC9C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC9F28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDE128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDE588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDE898>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDE9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFDEEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEAE208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEAE518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEAE828>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEAE9E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEAEE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC5198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC54A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC57B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC5AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEC5DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE61128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE61438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE615F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE61A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE61D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6A0B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6A3C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6A6D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6A9E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE6ACF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8D048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8D358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8D668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8D978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8DC88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8DF98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF34198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF344A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF34908>
+lines: None
+itr: 273, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFA9710>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF34F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF382B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF385C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF388D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF38BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF38DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4D240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4D550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4D860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4DB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF4DE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4231D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4234E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4237F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB423B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB423E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB446160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB446470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB446780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB446A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB446DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4F0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4F400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4F710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4FA20>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE4FBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2A080>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2A5C0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2A8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2A860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2AD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE2AEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE51320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE51630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE51940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE51C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE51F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF82B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF85C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF88D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF8BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF8EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF9240>
+itr: 316, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF34A20>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF98D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF9BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF9EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE19208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE19518>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE19898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE19B38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE19CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF3198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF3358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF37B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF3AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCF3DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCEC128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCEC438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCEC748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCECA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBCECD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D40B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D43C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D46D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D49E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D4BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B0048>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B03C8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B06D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B0978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B0C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2B0F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D02E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D05F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D0908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D0C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D0F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB405278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB405588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB405898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB405BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB405EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F2208>
+itr: 356, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDF95C0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F26A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F2B70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F2D30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F2FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4134E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4137F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB413B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB413E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF73160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF73470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF73780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF73A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF73DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF720F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF72400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF72710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF72A20>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF72BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF94080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF94390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF946A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DF60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12390>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12748>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE125C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE987F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEBAFD0>
+itr: 396, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3F2588>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4AC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF94940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF94DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B80F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B8400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B8710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B8A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4B8D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DE080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DE390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DE6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DE9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DECC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DEFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB361320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3614E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB361940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB361C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB361F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3812B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB381470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3818D0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB381C50>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB381F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0D240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0D550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0D860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0DB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF0DE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE41D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE44E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE47F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE4B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE4E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06A90>
+itr: 436, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEC87B8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD3D160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD3D438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD3D748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD3DA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD3DD68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD3DF28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD263C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD266D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD269E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD26CF8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4D0B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4D400>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4D518>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4D898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4DD30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD4DE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBE2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBE5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBE908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBEAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDBEF28>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDAE2E8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDAE5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDAE898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDAEBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDAEEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD4208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD4518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD4828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD4B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD4E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C5198>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C5358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C57B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C5AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3C5DD8>
+itr: 472, 33
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06E10>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3BC4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3BC780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3BCA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3BCDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DB0F0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DB470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DB710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DB8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DBD30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DBEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB328390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3286A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3289B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB328CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB328FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33D320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33D630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33D940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33DC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33DF60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31C2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31C5C0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31C780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31CBE0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31CF60>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E62B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E6550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E6860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E6B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E6E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3061D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3064E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3067F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB306B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB306E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB494160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB494470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB494780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB494A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB494DA0>
+pieces: 160
+move: 32
+itr: 1, 0
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94EF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AE8B21400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26DE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE128D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12D30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12EF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE982B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98B38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98F60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE98EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED2B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEED898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEBAFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED6EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB46D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB40F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4400>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB44A8>
+itr: 47, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94DD8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF065F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF06E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0252B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC025B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC025CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC025E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4940F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB494470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB494780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB494A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB494C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB461588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB461630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB461A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB461C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF0F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF2B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDF5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFA20>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDFDA0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE50F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE5240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE56A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE59B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE5B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE5FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE8320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE8630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE87F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE8B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE8F60>
+itr: 82, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFB4048>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE0438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE0908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE0AC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE0DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEB278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEB588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEB898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEBBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEBEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE7208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE7518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE7828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE7B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE7E48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE7F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDE4A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDE668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDEAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEDEDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE65F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6A58>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE6DD8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE9128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE9278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE96D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE99E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE9CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE3F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEA908>
+itr: 120, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE0320>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEAF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE12B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE15C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE18D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE1BE0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE1F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2240>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2860>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE2FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEF4E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEF6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEFB00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEFCC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEC160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEC470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEC780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEC940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEECDA0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E2160>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E2470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E25C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E2A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E2D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB313080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB313390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3136A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3139B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB313CC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB313E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30E320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30E630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30E940>
+itr: 155, 47
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEE00F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30EF98>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3050F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3055F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB305908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB305C18>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB305F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FE278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FE438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FE898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FEBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FEEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F7208>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F73C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F7828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F7B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F7E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F0198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F04A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F0668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F0AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F0DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F0F98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E02E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E0F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F63C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F66D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F69E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F6BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB304048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB304358>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB304518>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB304780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB304C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB304F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FF2E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FF4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FF908>
+itr: 195, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30ECC0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2FFF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31E2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31E5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31E8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31EBE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31EDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB312240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB312550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB312860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB312B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB312E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31C1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31C4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31C7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31CB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB31CE10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB317160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB317470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB317780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB317A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB317DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3070F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB307400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB307710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB307A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB307D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F9080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F9390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F9550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F99B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F9CC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2F9E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2ED320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2ED630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2ED940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2EDC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2EDF60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E82B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E85C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E88D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E8BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E8EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E5240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E5550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E5860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E5B70>
+itr: 241, 47
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB30EB00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E5FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4793C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB479828>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB479BA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB479CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB47B198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB47B4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB47B7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB47BAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB47BDD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB47BF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49E438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49E748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49EA58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB49EC18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD930B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD933C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD93588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD939E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD93CF8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7A080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7A358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7A668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7A978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7AC88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD7AF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE32E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE35F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE3908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE3C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE3F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE4240>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE42E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE4898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE4908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEE4EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF15208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF15518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF15828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF15B38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF15CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF9B198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF9B4A8>
+itr: 284, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2E5EF0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF9B940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF9BE10>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF9BFD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6A320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6A780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6AA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF6ADA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD110F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD11400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD11710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD11A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD11D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0D080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0D390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0D550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0D9B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0DB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0DFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0A320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0A630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0A940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0AB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD0AF60>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3D4320>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3D4630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3D4780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3D4BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3D4EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A4240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A4550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A4860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A4B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3A4E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DF1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DF4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DF7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DFB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3DFE10>
+itr: 322, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF9B828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB84A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB87B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB8AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB8DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB5128>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB54A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB55F8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB5AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB5D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4040B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4043C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4046D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4049E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB404CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB402048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB402358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB402668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB402978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB402C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB402F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4072E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4075F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB407908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB407AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB407F28>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3652E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB365588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB365748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB365BA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB365D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB365FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB36A3C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB36A828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB36AB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB36AE48>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB390208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3904A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3907B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB390978>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB390E48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB390F98>
+itr: 363, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEBEB8208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE46780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE46A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE46C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE340F0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE34470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE345C0>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE34828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE34D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5C080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5C390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5C6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5C9B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5CB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF5CFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF48320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF48630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF48940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF48C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF48F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3E2B0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3E630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3E780>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3EC50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBF3EDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDAC240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDAC550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDAC860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDACB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDACE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA71D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA74E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA77F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA7B00>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDA7E80>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD41D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD4470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD4780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD4A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBDD4C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFAF0F0>
+itr: 403, 47
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE46278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFAF748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFAF908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFAFD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC30B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC33C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC3588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC39E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFC3CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB459048>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB459160>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4596D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB459978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB459C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB459F98>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB44C358>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB44C4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB44C908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB44CC18>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB44CDD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE12828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAEEDE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB26D6D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB384EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD94CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAED60F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB443DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D70F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D72B0>
+itr: 446, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFAF470>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D7AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4D7DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DC0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DC400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DC710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DC8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4DCD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BB080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BB390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BB6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BB9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BBCC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB4BBFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33C320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33C630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33C940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33CC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB33CF60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3372B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3375C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB3378D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB337BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB337EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB342240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB342550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB342860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB342B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB342E80>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE62240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE624E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE626A0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE62B70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE62CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE72160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE72470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE72780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE72A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE72DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8A0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8A400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8A710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8AA20>
+itr: 488, 47
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFAF2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD230B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD233C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD23588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD239E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD23CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD25048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD25358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD25668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD25978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD25C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD25F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD552E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD554A8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD557B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD55C18>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBD55DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC001278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC001588>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC001748>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0019B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC001D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF0208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF0518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF0828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF0B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF0E48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBFF0F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0054A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0057B8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC005B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC005DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2CF128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2CF438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2CF5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2CFA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2CFD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2AE0B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2AE278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2AE6D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2AE9E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2AEBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D3048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D3358>
+itr: 531, 47
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEBE8AB70>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D3860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D3CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D3FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2891D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB289630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB289940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB289C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB289F60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB268160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2685C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2688D0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB268C50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB268DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEB297E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0321D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0324E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0327F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0329B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC032E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC040160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC040470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC040780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC040940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC040DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC04F0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC04F400>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC04F780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC04F8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC04FD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC05E080>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC05E240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC05E6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC05E9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC05ECC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC05EFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC06E320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC06E4E0>
+lines: None
+itr: 572, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEB2D36D8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC06ECC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC06EF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC07C2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC07C5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC07C908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC07CAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC07CF28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC08B278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC08B588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC08B898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC08BBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC08BEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC09A208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC09A518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC09A828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC09AB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC09AE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0A8198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0A84A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0A87B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0A8978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0A8DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0A8F98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0B72E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0B7748>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0B7AC8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0B7DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0B7F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0C63C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0C66D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0C69E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0C6CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0D5048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0D5358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0D5668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0D5978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0D5C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0D5F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0E42E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0E45F8>
+itr: 612, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC06E748>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0E4A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0E4F60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0F2160>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0F2470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0F28D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0F2BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC0F2EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC102240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC102550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC102860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC102B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC102E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1101D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1104E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1106A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC110B00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC110CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC120160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC120470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC120780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC120A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC120C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC12E0F0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC12E470>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC12E780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC12E8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC12ED30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC13D080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC13D390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC13D6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC13D9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC13DCC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC13DFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC14D320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC14D630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC14D940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC14DC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC14DF60>
+itr: 650, 47
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC06E9B0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC15B4A8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC15B978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC15BC18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC15BF28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC16A278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC16A588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC16A898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC16ABA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC16AEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC179208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC179518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC179828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC179B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC179E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC187198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1874A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1877B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC187AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC187DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC196128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC196438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1965F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC196A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC196D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1A50B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1A53C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1A56D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1A5898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1A5BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1B4048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1B4358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1B4668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1B4828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1B4C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1B4F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1C32E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1C35F8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1C3978>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1C3C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1C3F28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1D2128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1D2588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1D2898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1D2BA8>
+itr: 694, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC15B160>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1E1278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1E1550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1E1860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1E1B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1E1E80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1E1FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1EF4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1EF7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1EFB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1EFE10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1FE160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1FE470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1FE780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1FEA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1FEDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC20D0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC20D400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC20D710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC20DA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC20DD30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC20DEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC21D390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC21D550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC21D860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC21DCC0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC21DFD0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC22C390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC22C4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC22C940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC22CC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC22CF60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC23B2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC23B5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC23B8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC23BBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC23BEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC24A240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC24A550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC24A860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC24AB70>
+itr: 734, 47
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1D2F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC258208>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC258588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC258828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC258B38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC258CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC267198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2674A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2677B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC267AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC267DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC275128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2752E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC275748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC275908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC275D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC275F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2843C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2846D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC284898>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC284D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC293048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC293208>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC293518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC293828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC293C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC293F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2A22E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2A25F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2A2908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2A2C18>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2A2F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2B2278>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2B2438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2B2898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2B2BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2B2EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2C0208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2C0518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2C0828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2C0B38>
+lines: None
+itr: 774, 47
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC1D2D68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2C0FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2CF4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2CF7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2CFB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2CFE10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2DD160>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2DD4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2DD780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2DDA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2DDDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2EB0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2EB400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2EB710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2EBA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2EBD30>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2FB0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2FB390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2FB6A0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2FBA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2FBCC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2FBFD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC30C1D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC30C4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC30C940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC30CB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC30CF60>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC31A320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC31A5C0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC31A940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC31ABE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC31AEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC329240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC329550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC329710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC329B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC329E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3371D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC337390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3376A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC337B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC337E10>
+itr: 815, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC2C0C50>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3464E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3467B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC346AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC346DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC354128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3542E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC354748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC354A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC354D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3630B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3633C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3636D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3639E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC363CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC372048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC372358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC372668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC372978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC372C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC372F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3812E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3815F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC381908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC381C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC381F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC391278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC391588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC391898>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC391C18>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC391F28>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC391FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC39F518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC39F828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC39FB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC39FE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3AE198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3AE4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3AE7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3AEAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3AEDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3BC128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3BC438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3BC748>
+itr: 858, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC346208>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3BCDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3CA0F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3CA2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3CA710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3CA8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3CAD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3DB080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3DB390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3DB6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3DB9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3DBCC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3DBFD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3EA1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3EA630>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3EA7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3EAC50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3EAE10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3F92B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3F95C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3F98D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3F9BE0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3F9DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC408240>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4085C0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4088D0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC408A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC408E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4161D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4164E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4167F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC416B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC416E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC425160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC425470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC425780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC425A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC425DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4340F0>
+itr: 896, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC3BCAC8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC434780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC434A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC434D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4420B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4423C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC442588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4429E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC442CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC451048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC451358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC451668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC451978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC451C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC451F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4612E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4615F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC461908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC461C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC461F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC470278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC470588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC470898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC470BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC470EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC47E208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC47E518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC47E828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC47EB38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC47ECF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEAE38748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC48D470>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC48D630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC48DA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC48DDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC49B0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC49B400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC49B710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC49BA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC49BD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4AB080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4AB390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4AB6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4AB9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4ABCC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4ABFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4BA320>
+itr: 942, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC434470>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4BA9E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4BACC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4BAFD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4C81D0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4C86A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4C8940>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4C8B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4C8F60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4D7160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4D75C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4D78D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4D7BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4D7EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4E6240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4E6550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4E6860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4E6B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4E6E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4F61D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4F64E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4F67F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4F69B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4F6E10>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5041D0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5044E0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC504630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC504A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC504DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5130F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC513400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC513710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC513A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC513D30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC522080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC522390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5226A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5229B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC522CC0>
+itr: 980, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC4BA6D8>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC531390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC531668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC531978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC531C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC531F98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC540198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5405F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC540908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC540C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC540F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC54F278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC54F588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC54F898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC54FBA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC54FEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC55E208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC55E518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC55E828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC55EB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC55EE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC56C198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC56C4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC56C7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC56CAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC56CDD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC56CF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC57A438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC57A5F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC57AA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC57AD68>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC57AF28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC58A3C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC58A6D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC58A9E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC58ACF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC59A048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC59A358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC59A668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC59A978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC59AB38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC59AF98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5A82E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5A84A8>
+itr: 1023, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5310B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5A8C50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5A8E10>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5B6320>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5B6470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5B68D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5B6BE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5B6EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5C5240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5C5550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5C5710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5C5B70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5C5E80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5D41D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5D44E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5D47F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5D4B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5D4E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5E4160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5E4470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5E4780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5E4940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5E4DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5F20F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5F22B0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5F2780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5F2A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5F2D30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5F2EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC601390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6016A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC601860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC601CC0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC601FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC610320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC610630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC610940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC610C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC610F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC61F2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC61F5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC61F8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC61FBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC61FEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC62E240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC62E550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC62E860>
+itr: 1069, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC5A8978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC62EEB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC63D208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC63D518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC63D6D8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC63D9E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC63DE48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC63DF98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC64B358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC64B7B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC64BAC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC64BDD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC65A128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC65A438>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC65A5F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC65A908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC65AD68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6690B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6693C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC669588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6699E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC669CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC678048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC678358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC678668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC678978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC678C88>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC678E48>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC687198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6875F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC687908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC687AC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC687DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC696278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC696588>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC696908>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC696C18>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC696D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6A5208>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6A53C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6A56D8>
+lines: None
+itr: 1109, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC62EBE0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6A5EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6B31D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6B34E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6B37F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6B3B00>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6B3CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6C2160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6C2470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6C2780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6C2A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6C2DA0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6C2F60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6D1400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6D1710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6D1A20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6D1D30>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6D1EF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6E0390>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6E0550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6E09B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6E0CC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6E0FD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6F01D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6F0630>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6F09B0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6F0CC0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6F0E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6FF2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6FF5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6FF8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6FFBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6FFEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC70E240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC70E550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC70E860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC70EB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC70EE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC71C1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC71C4E0>
+itr: 1148, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC6A5940>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC71CB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC71CE48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC72A198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC72A4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC72A7B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC72A978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC72ADD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC739128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC739438>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC739748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC739A58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC739C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7480B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7483C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7486D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7489E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC748BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC757048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC757208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC757668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC757978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC757C88>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC757E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7662E8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC766668>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC766978>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC766AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC766F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC775278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC775588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC775898>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC775BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC775EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC784208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC784518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC784828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC784B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC784E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC793198>
+itr: 1187, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC71C860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7937F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC793B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC793E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7A1160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7A1470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7A1780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7A1A90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7A1DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7AF0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7AF400>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7AF710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7AFA20>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7AFBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7BE080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7BE390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7BE6A0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7BE860>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7BED30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7BEFD0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7CF1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7CF630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7CF940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7CFC50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7CFE10>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7DE2E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7DE5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7DE8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7DEBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7DEEF0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7ED240>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7ED400>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7ED710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7EDA20>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7EDEF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7EDFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7FB4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7FB7F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7FB9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC7FBE10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC809160>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC809320>
+itr: 1228, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC793518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC809AC8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC809C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC818128>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC818240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC818748>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC818908>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC818D68>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8270B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8273C8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC827588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8279E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC827CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC836048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC836358>
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC836470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC836978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC836C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC836F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8452E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8455F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8457B8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC845C88>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC845DD8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC854128>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC854588>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC854898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC854A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC854EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC863208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC863518>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8636D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC863B38>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC863CF8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC863F98>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC872358>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC872828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC872AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC872DD8>
+itr: 1266, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8097F0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8802B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC880780>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC880940>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC880E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC88E0F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC88E2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC88E710>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC88E8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC88ED30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC89E080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC89E390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC89E6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC89E9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC89ECC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC89EFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8AD320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8AD630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8AD940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8ADC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8ADF60>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8BD160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8BD5C0>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8BD940>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8BDC50>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8BDDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8CC240>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8CC550>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8CC860>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8CCB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8CCE80>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8DA1D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8DA4E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8DA7F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8DAB00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8DAE10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8E9160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8E9470>
+itr: 1303, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8801D0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8E9B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8E9DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8F8128>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8F82E8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8F87B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8F8A58>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8F8C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9060B8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC906278>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9066D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9069E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC906CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC915048>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC915358>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC915668>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC915978>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC915C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC915F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9242E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9245F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC924908>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC924AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC924F28>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9342E8>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9345F8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC934748>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC934BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC934EB8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC942208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC942518>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC942828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC942B38>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC942E48>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC951198>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9514A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9517B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC951AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC951DD8>
+itr: 1341, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC8E97F0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC95F4A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC95F780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC95FA90>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC95FDA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC96D0F0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC96D2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC96D710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC96DA20>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC96DD30>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC97D080>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC97D390>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC97D6A0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC97D9B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC97DCC0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC97DFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC98C320>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC98C630>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC98C940>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC98CC50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC98CF60>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC99B2B0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC99B5C0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC99B8D0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC99BBE0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC99BEF0>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9AB0F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9AB550>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9AB710>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9ABB70>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9ABE80>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9ABFD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9B94E0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9B97F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9B9B00>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9B9E10>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9C8160>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9C8470>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9C8780>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9C8A90>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9C8C50>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9D70F0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9D7400>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9D75C0>
+itr: 1384, 47
+lines: <Bot.Game.Game.Game object at 0x0000019AEC95F1D0>
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9D7DA0>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9E50B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9E53C8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9E56D8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9E59E8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9E5BA8>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9F4048>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9F4208>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9F4668>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9F4828>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9F4C88>
+lines: <Bot.Game.Game.Game object at 0x0000019AEC9F4F98>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA032E8>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA035F8>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA03908>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA03C18>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA03F28>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA13278>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA13588>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA13898>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AECA13A58>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA13EB8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AECA13FD0>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA22518>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AECA22898>
+lines: None
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AECA22BA8>
+lines: None
+lines: <Bot.Game.Game.Game object at 0x0000019AECA22CF8>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA30198>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA304A8>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA307B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA30AC8>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA30DD8>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA3E128>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA3E438>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA3E748>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA3EA58>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA3ED68>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA4D0B8>
+lines: <Bot.Game.Game.Game object at 0x0000019AECA4D3C8>
+itr: 1423, 47
+pieces: 70
+pieces: 10
+pieces: 40
