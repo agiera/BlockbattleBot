@@ -1,0 +1,8 @@
+Agent_language = java
+Env_language = c
+Agent = Agent/Build/NIPSContinuousRandomAgent
+env = Env/Build/RLCartPole
+main = main_NIPS.cpp
+common = Env/NIPS_continuous_common.h
+
+

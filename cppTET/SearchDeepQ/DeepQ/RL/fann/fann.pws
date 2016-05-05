@@ -1,0 +1,33 @@
+
+[executer]
+RunInTerminal=true
+
+[Project State]
+clean before build=false
+
+[filelist]
+0=/home/lukesky/workspace/fann/src/fann_train.c
+1=/home/lukesky/workspace/fann/src/fann_error.c
+2=/home/lukesky/workspace/fann/benchmarks/parity.c
+
+[filenumbers]
+0=64
+1=1
+2=74
+
+[filemarkers]
+0=
+1=
+2=
+
+[File View]
+filter.file.unmatch=*.so *.o *.a *.la
+filter.file.ignore.hidden=0
+filter.dir.ignore.hidden=0
+
+[Project Tree]
+0=0
+1=0:1
+
+[File Tree]
+0=0

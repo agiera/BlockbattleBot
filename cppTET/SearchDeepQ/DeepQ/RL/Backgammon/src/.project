@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Backgammon</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>RLGlueEnvironment/env_pipe_handler.java</name>
+			<type>1</type>
+			<location>/home/lukesky/rl-thesis/src/RL-Glue/rl-glue/RL-Glue1p1/Pipes/env_pipe_handler.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

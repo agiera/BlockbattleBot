@@ -1,0 +1,22 @@
+Crash Message:
+
+   Couldn't open input file /home/lukesky/workspace/fann/doc/.#advancedusage.txt
+
+Current Action:
+
+   Parsing /home/lukesky/workspace/fann/doc/.#advancedusage.txt
+
+Natural Docs version 1.35
+Perl version 5.8.7 on linux
+
+Command Line:
+
+   -i ../src/include/ -i ../doc/ -o HTML test/doc/ -p test/project/ -s Default fann
+
+Stack Trace:
+
+   NaturalDocs::Error::CatchDeath, called from
+   NaturalDocs::Languages::Simple::ParseFile, line 167, called from
+   NaturalDocs::Parser::Parse, line 310, called from
+   NaturalDocs::Parser::ParseForInformation, line 92, called from
+   (eval), line 341 of NaturalDocs

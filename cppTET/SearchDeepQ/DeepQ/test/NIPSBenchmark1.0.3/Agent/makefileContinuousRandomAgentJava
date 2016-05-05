@@ -1,0 +1,19 @@
+.PHONY: handle agent spec clean
+
+AGENT = NIPSContinuousRandomAgent.java
+HANDLE = agent_pipe_handler.java
+
+all: spec agent handle
+
+agent: $(AGENT)
+	javac  -classpath ../Agent/Build -d ../Agent/Build/ $(AGENT)
+
+handle: ../RL-Framework1p0/Pipes/$(HANDLE)
+	javac  -d ../Agent/Build/ ../RL-Framework1p0/Pipes/$(HANDLE)
+
+spec: ../Utils/Java_agent_parser.java
+	javac -d ../Agent/Build/ ../Utils/Java_agent_parser.java
+
+clean:
+	-rm -rf Build/*.class core* 
+

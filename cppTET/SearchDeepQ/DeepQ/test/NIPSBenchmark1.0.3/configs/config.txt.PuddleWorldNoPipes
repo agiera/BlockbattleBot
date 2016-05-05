@@ -1,0 +1,8 @@
+Agent_language = c
+Env_language = c
+Agent = Agent/NIPSContinuousRandomAgent.cpp
+env = Env/PuddleWorld.cpp
+main = main_NIPS.cpp
+common = Env/NIPS_continuous_common.h
+
+

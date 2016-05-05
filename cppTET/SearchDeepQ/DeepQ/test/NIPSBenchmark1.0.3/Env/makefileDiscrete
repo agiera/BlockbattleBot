@@ -1,0 +1,42 @@
+.PHONY: all clean RLcom RLcommon 
+
+HANDLEV = env_pipe_handler.cpp
+COMMON = NIPS_discrete_common.h
+
+all: Blackjack Taxi DSN tidy
+	
+Blackjack: RLcom RLcommon Build/Blackjack_env.o Build/handle.o
+	${CXX} Build/Blackjack_env.o Build/handle.o -o Build/RLBlackjack
+	-if test -f Build/RLBlackjack.exe; then mv Build/RLBlackjack.exe Build/RLBlackjack; fi;
+
+Taxi: RLcom RLcommon Build/Taxi_env.o Build/handle.o
+	${CXX} Build/Taxi_env.o Build/handle.o -o Build/RLTaxi
+	-if test -f Build/RLTaxi.exe; then mv Build/RLTaxi.exe Build/RLTaxi; fi;
+
+DSN: RLcom RLcommon Build/DSN_env.o Build/handle.o
+	${CXX} Build/DSN_env.o Build/handle.o -o Build/RLDSN
+	-if test -f Build/RLDSN.exe; then mv Build/RLDSN.exe Build/RLDSN; fi;
+
+RLcom:
+	-rm -rf RLcommon.h
+
+RLcommon: ../Env/$(COMMON)
+	cp ../Env/$(COMMON) RLcommon.h
+
+Build/Blackjack_env.o: Blackjack.cpp
+	${CXX} -g -o Build/Blackjack_env.o -c Blackjack.cpp
+
+Build/Taxi_env.o: Taxi.cpp
+	${CXX} -g -o Build/Taxi_env.o -c Taxi.cpp
+
+Build/DSN_env.o: dsn.cpp
+	${CXX} -g -o Build/DSN_env.o -c dsn.cpp
+
+Build/handle.o: ../RL-Framework1p0/Pipes/$(HANDLEV)
+	${CXX} -I ../Env/ -g -o Build/handle.o -c ../RL-Framework1p0/Pipes/$(HANDLEV)
+
+clean:
+	-rm -rf Build/*.o core* *.pyc Build/RLcommon.h Build/RLBlackjack Build/RLTaxi Build/RLDSN
+
+tidy:
+	-rm -rf *.o core* *.pyc RLcommon.h

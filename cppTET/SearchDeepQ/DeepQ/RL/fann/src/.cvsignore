@@ -1,0 +1,7 @@
+*.lo
+.cvsignore
+*.la
+Makefile
+.deps
+.libs
+*.loT

@@ -1,0 +1,30 @@
+.PHONY: all clean RLcom RLcommon 
+
+AGENT = NIPSContinuousRandomAgent.cpp
+HANDLEV = agent_pipe_handler.cpp
+COMMON = NIPS_continuous_common.h
+
+all: RLcom RLcommon Build/agent.o Build/handle.o Build/spec.o Build/tiles.o
+	${CXX} Build/agent.o Build/handle.o Build/spec.o Build/tiles.o -lm -o Build/RLagent
+	-if test -f Build/RLagent.exe; then mv Build/RLagent.exe Build/RLagent; fi;
+
+RLcom: 
+	-rm -rf RLcommon.h
+
+RLcommon: ../Env/$(COMMON)
+	cp ../Env/$(COMMON) RLcommon.h
+
+Build/agent.o: $(AGENT)
+	${CXX} -I ../Utils/ -I RL-Framework1p0 -g -o Build/agent.o -c $(AGENT)
+
+Build/handle.o: ../RL-Framework1p0/Pipes/$(HANDLEV)
+	${CXX} -I ../Agent/ -g -o  Build/handle.o -c ../RL-Framework1p0/Pipes/$(HANDLEV)
+
+Build/spec.o: ../Utils/RL_agent_util.cpp
+	${CXX} -g -o Build/spec.o -c ../Utils/RL_agent_util.cpp
+
+Build/tiles.o: ../Utils/tiles.cpp
+	${CXX} -g -o Build/tiles.o -c ../Utils/tiles.cpp
+
+clean:
+	-rm -rf Build/*.o Build/RLagent core* *.pyc RLcommon.h

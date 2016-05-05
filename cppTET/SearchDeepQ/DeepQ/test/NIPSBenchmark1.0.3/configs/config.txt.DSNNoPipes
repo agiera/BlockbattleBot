@@ -1,0 +1,8 @@
+Agent_language = c
+Env_language = c
+Agent = Agent/NIPSDiscreteRandomAgent.cpp
+env = Env/dsn.cpp
+main = main_NIPS.cpp
+common = Env/NIPS_discrete_common.h
+
+

@@ -1,0 +1,5 @@
+#Tue Mar 14 20:02:03 CET 2006
+content-types/enabled=false
+content-types/org.eclipse.cdt.core.cxxHeader/file-extensions=h
+content-types/org.eclipse.cdt.core.cxxSource/file-extensions=c,cc
+eclipse.preferences.version=1

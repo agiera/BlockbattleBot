@@ -1,0 +1,6 @@
+#Backgammon problem pipes
+COMMON = bg_common.h 
+problem-source = BGAgent.cpp
+destination = 
+
+include makefile.inc

@@ -1,0 +1,70 @@
+Index: examples/Makefile
+===================================================================
+RCS file: /cvsroot/fann/fann/examples/Makefile,v
+retrieving revision 1.19
+diff -u -r1.19 Makefile
+--- examples/Makefile	28 Mar 2006 19:46:39 -0000	1.19
++++ examples/Makefile	29 Mar 2006 12:53:05 -0000
+@@ -3,7 +3,7 @@
+ 
+ GCC=gcc
+ 
+-TARGETS = xor_train xor_test xor_test_fixed simple_train steepness_train simple_test robot mushroom cascade_train
++TARGETS = xor_train xor_test xor_test_fixed simple_train steepness_train simple_test robot mushroom cascade_train scaling_test scaling_train
+ DEBUG_TARGETS = xor_train_debug xor_test_debug xor_test_fixed_debug cascade_train_debug
+ 
+ all: $(TARGETS)
+@@ -15,7 +15,7 @@
+ 	$(GCC) -O3 -DFIXEDFANN $< -o $@ -lm -lfixedfann
+ 
+ clean:
+-	rm -f $(TARGETS) $(DEBUG_TARGETS) xor_fixed.data *.net *~ *.obj *.exe *.tds
++	rm -f $(TARGETS) $(DEBUG_TARGETS) xor_fixed.data *.net *~ *.obj *.exe *.tds noscale.txt withscale.txt scale_test_results.txt
+ 
+ runtest: $(TARGETS)
+ 	@echo
+@@ -57,6 +57,16 @@
+ 	@echo CAT
+ 	@cat xor_float_backup.out
+ 
++#used to compare result when scale used and not used
++runscaletest: scaling_train scaling_test
++	echo Without scaling > noscale.txt
++	./scaling_train >> noscale.txt
++	./scaling_test >> noscale.txt
++	echo With scaling > withscale.txt
++	./scaling_train scale >> withscale.txt
++	./scaling_test scale >> withscale.txt
++	pr -m -t -T -w 150 noscale.txt withscale.txt > scale_test_results.txt
++	@echo See scale_test_results.txt for results of scaling test
+ 
+ #compiletest is used to test whether the library will compile easily in other compilers
+ compiletest:
+Index: examples/scaling_test.c
+===================================================================
+RCS file: /cvsroot/fann/fann/examples/scaling_test.c,v
+retrieving revision 1.3
+diff -u -r1.3 scaling_test.c
+--- examples/scaling_test.c	14 Mar 2006 22:14:30 -0000	1.3
++++ examples/scaling_test.c	29 Mar 2006 12:53:06 -0000
+@@ -28,17 +28,14 @@
+ 			fann_scale_input( ann, data->input[i] );
+ 			calc_out = fann_run( ann, data->input[i] );
+ 			fann_descale_output( ann, calc_out );
+-			printf("Scaling test -> %f, should be %f, difference=%f\n",
+-				calc_out[0], data->output[i][0],
+-				(float) fann_abs(calc_out[0] - data->output[i][0]));
+ 		}
+ 		else
+ 		{
+ 			calc_out = fann_test(ann, data->input[i], data->output[i]);
+-			printf("Scaling test (%f, %f, %f) -> %f, should be %f, difference=%f\n",
+-				data->input[i][0], data->input[i][1], data->input[i][2], calc_out[0], data->output[i][0],
+-				(float) fann_abs(calc_out[0] - data->output[i][0]));
+ 		}
++		printf("Result %f original %f error %f\n",
++			calc_out[0], data->output[i][0],
++			(float) fann_abs(calc_out[0] - data->output[i][0]));
+ 	}
+ 	printf("Cleaning up.\n");
+ 	fann_destroy_train(data);

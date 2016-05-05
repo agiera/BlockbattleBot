@@ -1,0 +1,28 @@
+python BotRunSaveGames2.py
+python BotVerbRun1.py
+Setting up game...
+playing round 1
+playing round 2
+playing round 3
+playing round 4
+playing round 5
+playing round 6
+playing round 7
+playing round 8
+playing round 9
+playing round 10
+playing round 11
+playing round 12
+playing round 13
+playing round 14
+playing round 15
+playing round 16
+playing round 17
+playing round 18
+playing round 19
+playing round 20
+playing round 21
+playing round 22
+stopping...
+
+Done.

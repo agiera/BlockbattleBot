@@ -1,0 +1,53 @@
+D/benchmarkdata_old////
+/BGAgent.cpp/1.1/Mon Apr 23 21:36:27 2007//
+/BenchAgent.pl/1.1/Tue Apr 17 20:58:15 2007//
+/BenchAgents.pl/1.1/Tue May  8 05:47:54 2007//
+/MountainCarSV.cpp/1.1/Fri Mar 16 14:35:42 2007//
+/MountainCarSV.h/1.1/Thu Jul 27 20:37:15 2006//
+/QCMACO.cpp/1.1/Fri Mar 16 14:35:58 2007//
+/QCMACO.h/1.1/Fri Mar 16 13:23:03 2007//
+/YahtzeeGroupedFull.cpp/1.1/Mon Apr 10 19:17:21 2006//
+/YahtzeeGroupedFull.h/1.1/Tue Mar 28 15:59:21 2006//
+/YahtzeeNumbersFull.cpp/1.1/Fri Mar 16 16:07:55 2007//
+/YahtzeeNumbersFull.h/1.1/Fri Mar 16 16:06:32 2007//
+/YahtzeeScoreFull.cpp/1.1/Mon Apr 10 19:19:50 2006//
+/YahtzeeScoreFull.h/1.1/Tue Mar 28 15:59:21 2006//
+/YahtzeeSortedFull.cpp/1.1/Mon Apr 10 19:43:55 2006//
+/YahtzeeSortedFull.h/1.1/Tue Mar 28 15:59:21 2006//
+/bench.sh/1.1/Mon Mar 26 20:33:35 2007//
+/bench_batch.sh/1.1/Tue Apr 10 05:59:53 2007//
+/bench_batch_nfq.sh/1.1/Wed Apr 25 18:15:38 2007//
+/bench_batch_nfq_competitive.sh/1.1/Fri May  4 09:14:34 2007//
+/bench_cascade.sh/1.1/Fri Apr 13 17:13:27 2007//
+/bench_cascade_competitive.sh/1.1/Sun Apr 22 08:50:19 2007//
+/bench_gamma.sh/1.1/Sat Mar 24 10:29:04 2007//
+/bench_incr.sh/1.1/Tue Apr  3 18:49:04 2007//
+/bench_lambda.sh/1.1/Sat Mar 24 08:32:41 2007//
+/bench_lambda_cascade.sh/1.1/Sat Mar 24 12:52:17 2007//
+/bench_rehearse.sh/1.1/Sat Mar 24 11:15:01 2007//
+/bench_sigma.sh/1.1/Sat Mar 24 09:38:58 2007//
+/benchmark.sh/1.1/Fri Mar 23 15:44:26 2007//
+/bg_common.h/1.1/Thu Mar 22 10:53:37 2007//
+/carAgent.cpp/1.1/Sat Mar 24 18:10:36 2007//
+/car_common.h/1.1/Wed Mar 14 22:30:39 2007//
+/gnuplot.pl/1.1/Tue Apr 24 05:19:31 2007//
+/main.c/1.1/Sat Mar 24 18:00:52 2007//
+/mineAgent.cpp/1.1/Sat Mar 24 18:54:31 2007//
+/mineAgent.h/1.1/Tue Mar 13 16:15:52 2007//
+/mines.cpp/1.1/Wed Mar 14 19:34:50 2007//
+/mines.h/1.1/Tue Jan 30 04:36:34 2007//
+/mines_common.h/1.1/Wed Jan 31 02:08:52 2007//
+/pipemain.c/1.1/Mon May  7 05:48:34 2007//
+/runbg.sh/1.1/Sat Mar 31 23:57:54 2007//
+/runbgcompetitive.sh/1.1/Sat Apr 14 19:17:31 2007//
+/runbgheuristic.sh/1.1/Sat Apr 14 19:17:46 2007//
+/runbgrandom.sh/1.1/Sat Apr 14 17:25:44 2007//
+/runbgrandomheuristic.sh/1.1/Mon Apr 16 19:17:28 2007//
+/svcar_common.h/1.1/Fri Mar 16 12:51:23 2007//
+/yahtzeeAgent.cpp/1.1/Fri Mar 16 20:05:38 2007//
+/yahtzee_common.h/1.1/Mon Apr 10 19:08:36 2006//
+D/Agent////
+D/Backgammon////
+D/Build////
+D/Data////
+D/benchmarkdata////

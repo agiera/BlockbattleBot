@@ -1,0 +1,19 @@
+***************
+*** 928,933 ****
+  FANN_GET_SET(float, rprop_decrease_factor)
+  FANN_GET_SET(float, rprop_delta_min)
+  FANN_GET_SET(float, rprop_delta_max)
+  FANN_GET_SET(enum fann_stopfunc_enum, train_stop_function)
+  FANN_GET_SET(fann_type, bit_fail_limit)
+  FANN_GET_SET(float, learning_momentum)
+--- 1009,1018 ----
+  FANN_GET_SET(float, rprop_decrease_factor)
+  FANN_GET_SET(float, rprop_delta_min)
+  FANN_GET_SET(float, rprop_delta_max)
++ FANN_GET_SET(float, sarprop_weight_decay_shift)
++ FANN_GET_SET(float, sarprop_step_error_threshold_factor)
++ FANN_GET_SET(float, sarprop_step_error_shift)
++ FANN_GET_SET(float, sarprop_temperature)
+  FANN_GET_SET(enum fann_stopfunc_enum, train_stop_function)
+  FANN_GET_SET(fann_type, bit_fail_limit)
+  FANN_GET_SET(float, learning_momentum)

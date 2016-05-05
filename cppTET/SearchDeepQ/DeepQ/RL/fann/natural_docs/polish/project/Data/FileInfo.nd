@@ -1,0 +1,21 @@
+1.35
+C/C++
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/floatfann.h	1141852322	0	/home/lukesky/workspace/fann/translations/polish/2.0.0/include/floatfann.h
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_io.h	1141842626	1	FANN File Input/Output
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_train.h	1141852322	1	FANN Training
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_cascade.h	1141852322	1	FANN Cascade Training
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann.h	1141852322	1	FANN Creation/Execution
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_cpp.h	1141852322	1	FANN Wrapper for C++
+/home/lukesky/workspace/fann/translations/polish/2.0.0/doc/theory.txt	1141852233	1	Neural Network Theory
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_activation.h	1141852322	0	/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_activation.h
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/doublefann.h	1141852322	0	/home/lukesky/workspace/fann/translations/polish/2.0.0/include/doublefann.h
+/home/lukesky/workspace/fann/translations/polish/2.0.0/doc/advancedusage.txt	1141852233	1	Advanced Usage
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/compat_time.h	1141852322	0	/home/lukesky/workspace/fann/translations/polish/2.0.0/include/compat_time.h
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_data.h	1141852322	1	FANN Datatypes
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_internal.h	1141852322	0	/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_internal.h
+/home/lukesky/workspace/fann/translations/polish/2.0.0/doc/fixedpointusage.txt	1141852233	1	Fixed Point Usage
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/config.h	1141852322	0	/home/lukesky/workspace/fann/translations/polish/2.0.0/include/config.h
+/home/lukesky/workspace/fann/translations/polish/2.0.0/doc/gettingstarted.txt	1141852233	1	Getting Started
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fixedfann.h	1141852322	0	/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fixedfann.h
+/home/lukesky/workspace/fann/translations/polish/2.0.0/include/fann_error.h	1141852322	1	FANN Error Handling
+/home/lukesky/workspace/fann/translations/polish/2.0.0/doc/installation.txt	1141852233	1	Installing FANN

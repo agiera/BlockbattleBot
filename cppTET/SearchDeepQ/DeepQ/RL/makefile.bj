@@ -1,0 +1,6 @@
+#BlackJack Problem
+COMMON = bj_common.h 
+problem-source = BJAgent.cpp Blackjack.cpp
+destination = bj
+
+include makefile.inc

@@ -1,0 +1,10 @@
+#Cart Pole Problem
+COMMON = NIPS_continuous_common.h
+problem-source = cartAgent2.cpp CartPole.cpp
+
+all: cart2
+
+include makefile.inc
+
+cart: common ${objects}
+	${CXX} ${objects} $(link-flags) -o cart2

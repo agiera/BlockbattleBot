@@ -1,0 +1,22 @@
+1.35
+C/C++
+/home/lukesky/workspace/fann/src/include/fann_activation.h	1150412404	0	/home/lukesky/workspace/fann/src/include/fann_activation.h
+/home/lukesky/workspace/fann/src/include/fixedfann.h	1122929504	0	/home/lukesky/workspace/fann/src/include/fixedfann.h
+/home/lukesky/workspace/fann/src/include/config.h	1158211816	0	/home/lukesky/workspace/fann/src/include/config.h
+/home/lukesky/workspace/fann/doc/installation.txt	1134934435	1	Installing FANN
+/home/lukesky/workspace/fann/doc/fixedpointusage.txt	1127429288	1	Fixed Point Usage
+/home/lukesky/workspace/fann/src/include/fann_error.h	1173870222	1	FANN Error Handling
+/home/lukesky/workspace/fann/doc/gettingstarted.txt	1134428361	1	Getting Started
+/home/lukesky/workspace/fann/src/include/compat_time.h	1122929504	0	/home/lukesky/workspace/fann/src/include/compat_time.h
+/home/lukesky/workspace/fann/src/include/fann_cpp.h	1176538773	1	FANN Wrapper for C++
+/home/lukesky/workspace/fann/src/include/fann_data.h	1174465469	1	FANN Datatypes
+/home/lukesky/workspace/fann/doc/search.php	1088112962	0	/home/lukesky/workspace/fann/doc/search.php
+/home/lukesky/workspace/fann/doc/theory.txt	1134431047	1	Neural Network Theory
+/home/lukesky/workspace/fann/src/include/fann_train.h	1176538773	1	FANN Training
+/home/lukesky/workspace/fann/src/include/fann_cascade.h	1174467335	1	FANN Cascade Training
+/home/lukesky/workspace/fann/doc/advancedusage.txt	1134430881	1	Advanced Usage
+/home/lukesky/workspace/fann/src/include/floatfann.h	1122929504	0	/home/lukesky/workspace/fann/src/include/floatfann.h
+/home/lukesky/workspace/fann/src/include/doublefann.h	1122929504	0	/home/lukesky/workspace/fann/src/include/doublefann.h
+/home/lukesky/workspace/fann/src/include/fann_io.h	1140729140	1	FANN File Input/Output
+/home/lukesky/workspace/fann/src/include/fann.h	1176537940	1	FANN Creation/Execution
+/home/lukesky/workspace/fann/src/include/fann_internal.h	1173871785	0	/home/lukesky/workspace/fann/src/include/fann_internal.h

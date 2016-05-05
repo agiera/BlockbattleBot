@@ -1,0 +1,11 @@
+#Mountain Car Problem
+COMMON = NIPS_continuous_common.h
+problem-source = carAgent3.cpp MountainCar.cpp
+destination = car3
+
+#Mountain Car Problem
+# COMMON = MCcar_common.h 
+# problem-source = carAgent.cpp MountainCarOld.cpp
+
+
+include makefile.inc

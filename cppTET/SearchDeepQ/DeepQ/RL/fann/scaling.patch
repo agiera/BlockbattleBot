@@ -1,0 +1,571 @@
+Index: src/fann.c
+===================================================================
+RCS file: /cvsroot/fann/fann/src/fann.c,v
+retrieving revision 1.58
+diff -b -U5 -r1.58 fann.c
+--- src/fann.c	22 Feb 2006 04:56:54 -0000	1.58
++++ src/fann.c	9 Mar 2006 16:38:19 -0000
+@@ -144,10 +144,38 @@
+ 	}
+ 
+ 	ann->num_output = (ann->last_layer - 1)->last_neuron - (ann->last_layer - 1)->first_neuron - 1;
+ 	ann->num_input = ann->first_layer->last_neuron - ann->first_layer->first_neuron - 1;
+ 
++#ifndef FIXEDFANN
++	//------------------------------------------------------------------------
++	#define SCALE_REALLOCATE( what, where, default_value )					\
++		ann->what##_##where = (float *)realloc( 							\
++			ann->what##_##where,											\
++			ann->num_##where##put * sizeof( float )							\
++			);																\
++		if( ann->what##_##where == NULL )									\
++		{																	\
++			fann_error( NULL, FANN_E_CANT_ALLOCATE_MEM );					\
++			free( ann ); /* Hmmmm!!! Maybe fann_destroy??? */				\
++			return NULL;													\
++		}																	\
++		for( i = 0; i < ann->num_##where##put; i++ )						\
++			ann->what##_##where[ i ] = ( default_value );
++	//------------------------------------------------------------------------
++	SCALE_REALLOCATE( scale_mean,		in,		0.0 )
++	SCALE_REALLOCATE( scale_deviation,	in,		1.0 )
++	SCALE_REALLOCATE( scale_new_min,	in,		-1.0 )
++	SCALE_REALLOCATE( scale_factor,		in,		1.0 )
++
++	SCALE_REALLOCATE( scale_mean,		out,	0.0 )
++	SCALE_REALLOCATE( scale_deviation,	out,	1.0 )
++	SCALE_REALLOCATE( scale_new_min,	out,	-1.0 )
++	SCALE_REALLOCATE( scale_factor,		out,	1.0 )
++	#undef SCALE_REALLOCATE
++#endif	
++	
+ 	/* allocate room for the actual neurons */
+ 	fann_allocate_neurons(ann);
+ 	if(ann->errno_f == FANN_E_CANT_ALLOCATE_MEM)
+ 	{
+ 		fann_destroy(ann);
+@@ -772,10 +800,23 @@
+ 	fann_safe_free(ann->prev_steps);
+ 	fann_safe_free(ann->prev_weights_deltas);
+ 	fann_safe_free(ann->errstr);
+ 	fann_safe_free(ann->cascade_activation_functions);
+ 	fann_safe_free(ann->cascade_activation_steepnesses);
++	
++#ifndef FIXEDFANN
++	fann_safe_free( ann->scale_mean_in );
++	fann_safe_free( ann->scale_deviation_in );
++	fann_safe_free( ann->scale_new_min_in );
++	fann_safe_free( ann->scale_factor_in );
++
++	fann_safe_free( ann->scale_mean_out );
++	fann_safe_free( ann->scale_deviation_out );
++	fann_safe_free( ann->scale_new_min_out );
++	fann_safe_free( ann->scale_factor_out );
++#endif
++	
+ 	fann_safe_free(ann);
+ }
+ 
+ FANN_EXTERNAL void FANN_API fann_randomize_weights(struct fann *ann, fann_type min_weight,
+ 												   fann_type max_weight)
+@@ -1001,10 +1042,12 @@
+ 		printf("Cascade activation steepnesses[%d]    :%8.3f\n", i,
+ 			ann->cascade_activation_steepnesses[i]);
+ 		
+ 	printf("Cascade candidate groups             :%4d\n", ann->cascade_num_candidate_groups);
+ 	printf("Cascade no. of candidates            :%4d\n", fann_get_cascade_num_candidates(ann));
++	
++	// TODO: dump scale parameters
+ #endif
+ }
+ 
+ FANN_GET(unsigned int, num_input)
+ FANN_GET(unsigned int, num_output)
+@@ -1364,10 +1407,39 @@
+ 		return NULL;
+ 	}
+ 
+ 	ann->last_layer = ann->first_layer + num_layers;
+ 
++#ifndef FIXEDFANN
++	unsigned i;	
++	//------------------------------------------------------------------------
++	#define SCALE_ALLOCATE( what, where, default_value )					\
++		ann->what##_##where = (float *)calloc(								\
++			ann->num_##where##put,											\
++			sizeof( float )													\
++			);																\
++		if( ann->what##_##where == NULL )									\
++		{																	\
++			fann_error( NULL, FANN_E_CANT_ALLOCATE_MEM );					\
++			free( ann ); /* Hmmmm!!! Maybe fann_destroy??? */				\
++			return NULL;													\
++		}																	\
++		for( i = 0; i < ann->num_##where##put; i++ )						\
++			ann->what##_##where[ i ] = ( default_value );
++	//------------------------------------------------------------------------
++	SCALE_ALLOCATE( scale_mean,			in,		0.0 )
++	SCALE_ALLOCATE( scale_deviation,	in,		1.0 )
++	SCALE_ALLOCATE( scale_new_min,		in,		-1.0 )
++	SCALE_ALLOCATE( scale_factor,		in,		1.0 )
++
++	SCALE_ALLOCATE( scale_mean,			out,	0.0 )
++	SCALE_ALLOCATE( scale_deviation,	out,	1.0 )
++	SCALE_ALLOCATE( scale_new_min,		out,	-1.0 )
++	SCALE_ALLOCATE( scale_factor,		out,	1.0 )
++	#undef SCALE_ALLOCATE
++#endif	
++	
+ 	return ann;
+ }
+ 
+ /* INTERNAL FUNCTION
+    Allocates room for the neurons.
+Index: src/fann_io.c
+===================================================================
+RCS file: /cvsroot/fann/fann/src/fann_io.c,v
+retrieving revision 1.19
+diff -b -U5 -r1.19 fann_io.c
+--- src/fann_io.c	19 Feb 2006 23:05:06 -0000	1.19
++++ src/fann_io.c	9 Mar 2006 16:38:20 -0000
+@@ -172,10 +172,11 @@
+ 	fprintf(conf, "decimal_point=%u\n", ann->decimal_point);
+ 
+ #endif
+ 
+ 	/* Save network parameters */
++	/* 2.0 */
+ 	fprintf(conf, "num_layers=%u\n", ann->last_layer - ann->first_layer);
+ 	fprintf(conf, "learning_rate=%f\n", ann->learning_rate);
+ 	fprintf(conf, "connection_rate=%f\n", ann->connection_rate);
+ 	fprintf(conf, "network_type=%u\n", ann->network_type);
+ 	
+@@ -238,11 +239,32 @@
+ 		/* the number of neurons in the layers (in the last layer, there is always one too many neurons, because of an unused bias) */
+ 		fprintf(conf, "%u ", layer_it->last_neuron - layer_it->first_neuron);
+ 	}
+ 	fprintf(conf, "\n");
+ 
++#ifndef FIXEDFANN
++	/* 2.1 */
++	//------------------------------------------------------------------------
++	#define SCALE_SAVE( what, where )										\
++		fprintf( conf, #what "_" #where "=" );								\
++		for( i = 0; i < ann->num_##where##put; i++ )						\
++			fprintf( conf, "%f ", ann->what##_##where[ i ] );				\
++		fprintf( conf, "\n" );
++	//------------------------------------------------------------------------
++	SCALE_SAVE( scale_mean,			in )
++	SCALE_SAVE( scale_deviation,	in )
++	SCALE_SAVE( scale_new_min,		in )
++	SCALE_SAVE( scale_factor,		in )
++
++	SCALE_SAVE( scale_mean,			out )
++	SCALE_SAVE( scale_deviation,	out )
++	SCALE_SAVE( scale_new_min,		out )
++	SCALE_SAVE( scale_factor,		out )
++	#undef SCALE_SAVE
++#endif	
+ 
++	/* 2.0 */
+ 	fprintf(conf, "neurons (num_inputs, activation_function, activation_steepness)=");
+ 	for(layer_it = ann->first_layer; layer_it != ann->last_layer; layer_it++)
+ 	{
+ 		/* the neurons */
+ 		for(neuron_it = layer_it->first_neuron; neuron_it != layer_it->last_neuron; neuron_it++)
+@@ -332,10 +354,13 @@
+ 	struct fann_neuron *first_neuron, *neuron_it, *last_neuron, **connected_neurons;
+ 	fann_type *weights;
+ 	struct fann_layer *layer_it;
+ 	struct fann *ann = NULL;
+ 
++	/* Indicates if we should skip loading of scale parameters. */
++	unsigned is_ver_2_0 = 0;
++
+ 	char *read_version;
+ 
+ 	read_version = (char *) calloc(strlen(FANN_CONF_VERSION "\n"), 1);
+ 	if(read_version == NULL)
+ 	{
+@@ -357,15 +382,25 @@
+ #endif
+ 			free(read_version);
+ 			return fann_create_from_fd_1_1(conf, configuration_file);
+ 		}
+ 
++#ifndef FIXEDFANN
++		/* Maintain compatibility with 2.0 version that doesnt have scale parameters. */
++		if(strncmp(read_version, "FANN_FLO_2.0\n", strlen("FANN_FLO_2.0\n")) == 0)
++			is_ver_2_0 = 1;
++		else
++#else
++		if( 1 )		
++#endif
++		{
+ 		free(read_version);
+ 		fann_error(NULL, FANN_E_WRONG_CONFIG_VERSION, configuration_file);
+ 
+ 		return NULL;
+ 	}
++	}
+ 
+ 	free(read_version);
+ 
+ #ifdef FIXEDFANN
+     fann_scanf("%u", "decimal_point", &decimal_point);
+@@ -482,10 +517,43 @@
+ #endif
+ 	}
+ 
+ 	ann->num_input = ann->first_layer->last_neuron - ann->first_layer->first_neuron - 1;
+ 	ann->num_output = ((ann->last_layer - 1)->last_neuron - (ann->last_layer - 1)->first_neuron);
++
++#ifndef FIXEDFANN
++	if( !is_ver_2_0 )
++	{
++		//---------------------------------------------------------------------------
++		#define SCALE_LOAD( what, where )											\
++			ann->what##_##where = (float *)realloc(									\
++				ann->what##_##where,												\
++				ann->num_##where##put * sizeof( float )								\
++				);																	\
++			if( ann->what##_##where == NULL )										\
++			{																		\
++				fann_error( (struct fann_error*)ann, FANN_E_CANT_ALLOCATE_MEM );	\
++				fann_destroy( ann );												\
++				return NULL;														\
++			}																		\
++			fscanf( conf, #what "_" #where "=" );									\
++			for(i = 0; i < ann->num_##where##put; i++)								\
++				fscanf( conf, "%f ", (float *)&ann->what##_##where[ i ] );
++		//---------------------------------------------------------------------------
++		SCALE_LOAD( scale_mean,			in )
++		SCALE_LOAD( scale_deviation,	in )
++		SCALE_LOAD( scale_new_min,		in )
++		SCALE_LOAD( scale_factor,		in )
++
++		SCALE_LOAD( scale_mean,			out )
++		SCALE_LOAD( scale_deviation,	out )
++		SCALE_LOAD( scale_new_min,		out )
++		SCALE_LOAD( scale_factor,		out )
++		#undef SCALE_LOAD
++	}
++#endif
++	
+ 	if(ann->network_type == FANN_NETTYPE_LAYER)
+ 	{
+ 		/* one too many (bias) in the output layer */
+ 		ann->num_output--;
+ 	}
+Index: src/fann_train_data.c
+===================================================================
+RCS file: /cvsroot/fann/fann/src/fann_train_data.c,v
+retrieving revision 1.26
+diff -b -U5 -r1.26 fann_train_data.c
+--- src/fann_train_data.c	19 Feb 2006 03:21:16 -0000	1.26
++++ src/fann_train_data.c	9 Mar 2006 16:38:20 -0000
+@@ -906,5 +906,178 @@
+ 			return 0;
+ 		break;
+ 	}
+ 	return -1;
+ }
++
++#ifndef FIXEDFANN
++/*
++ * Scale data in input vector before feed it to ann based on previously calculated parameters.
++ */
++void fann_scale2_input_vector_in( const struct fann *ann, fann_type *vector )
++{
++	unsigned cur_neuron;
++	for( cur_neuron = 0; cur_neuron < ann->num_input; cur_neuron++ )
++		vector[ cur_neuron ] =
++			(
++				( vector[ cur_neuron ] - ann->scale_mean_in[ cur_neuron ] )
++				/ ann->scale_deviation_in[ cur_neuron ]
++				- ( -1.0 ) // This is old_min
++			)
++			* ann->scale_factor_in[ cur_neuron ]
++			+ ann->scale_new_min_in[ cur_neuron ];
++}
++
++/*
++ * Scale data in output vector before feed it to ann based on previously calculated parameters.
++ */
++void fann_scale2_output_vector_in( const struct fann *ann, fann_type *vector )
++{
++	unsigned cur_neuron;
++	for( cur_neuron = 0; cur_neuron < ann->num_output; cur_neuron++ )
++		vector[ cur_neuron ] =
++			(
++				( vector[ cur_neuron ] - ann->scale_mean_out[ cur_neuron ] )
++				/ ann->scale_deviation_out[ cur_neuron ]
++				- ( -1.0 ) // This is old_min
++			)
++			* ann->scale_factor_out[ cur_neuron ]
++			+ ann->scale_new_min_out[ cur_neuron ];
++}
++
++/*
++ * Scale data in output vector after get it from ann based on previously calculated parameters.
++ */
++void fann_scale2_output_vector_out( const struct fann *ann, fann_type *vector )
++{
++	unsigned cur_neuron;
++	for( cur_neuron = 0; cur_neuron < ann->num_output; cur_neuron++ )
++		vector[ cur_neuron ] =
++			(
++				(
++					vector[ cur_neuron ]
++					- ann->scale_new_min_out[ cur_neuron ]
++				)
++				/ ann->scale_factor_out[ cur_neuron ]
++			)
++			* ann->scale_deviation_out[ cur_neuron ]
++			+ ann->scale_mean_out[ cur_neuron ];
++}
++
++/*
++ * Scale input and output data based on previously calculated parameters.
++ */
++void fann_scale2_train_data( const struct fann *ann, struct fann_train_data *data )
++{
++	/* Check that we have good training data. */
++	// No need for if( !params || !ann ) ?
++	if(    data->num_input != ann->num_input
++		|| data->num_output != ann->num_output
++		)
++	{
++		fann_error( (struct fann_error *) ann, FANN_E_TRAIN_DATA_MISMATCH );
++		return;
++	}
++
++	unsigned cur_sample;
++	for( cur_sample = 0; cur_sample < data->num_data; cur_sample++ )
++	{
++		fann_scale2_input_vector_in( ann, data->input[ cur_sample ] );
++		fann_scale2_output_vector_in( ann, data->output[ cur_sample ] );
++	}
++}
++
++/*
++ * Calculate scaling parameters for future use based on training data.
++ */
++void fann_get_scaling_params(
++	const struct fann_train_data *data,
++	unsigned is_input_scale_needed,
++	unsigned is_output_scale_needed,
++	float new_input_min,
++	float new_input_max,
++	float new_output_min,
++	float new_output_max,
++	struct fann *ann
++	)
++{
++	unsigned cur_neuron, cur_sample;
++
++	/* Check that we have good training data. */
++	// No need for if( !params || !ann ) ?
++	if(    data->num_input != ann->num_input
++		|| data->num_output != ann->num_output
++		)
++	{
++		fann_error( (struct fann_error *) ann, FANN_E_TRAIN_DATA_MISMATCH );
++		return;
++	}
++
++	/* First of all reset everything to default values. */
++	//------------------------------------------------------------------------
++	#define SCALE_RESET( what, where, default_value )							\
++		for( cur_neuron = 0; cur_neuron < ann->num_##where##put; cur_neuron++ )	\
++			ann->what##_##where[ cur_neuron ] = ( default_value );
++	//------------------------------------------------------------------------
++	SCALE_RESET( scale_mean,		in,		0.0 )
++	SCALE_RESET( scale_deviation,	in,		1.0 )
++	SCALE_RESET( scale_new_min,		in,		-1.0 )
++	SCALE_RESET( scale_factor,		in,		1.0 )
++
++	SCALE_RESET( scale_mean,		out,	0.0 )
++	SCALE_RESET( scale_deviation,	out,	1.0 )
++	SCALE_RESET( scale_new_min,		out,	-1.0 )
++	SCALE_RESET( scale_factor,		out,	1.0 )
++	#undef SCALE_RESET
++
++	if( !data->num_data )
++		return;
++
++	//------------------------------------------------------------------------
++	#define SCALE_GET_PARAM( where )																		\
++		/* Calculate mean: sum(x)/length */																	\
++		for( cur_neuron = 0; cur_neuron < ann->num_##where##put; cur_neuron++ )								\
++			ann->scale_mean_##where[ cur_neuron ] = 0.0;													\
++		for( cur_neuron = 0; cur_neuron < ann->num_##where##put; cur_neuron++ )								\
++			for( cur_sample = 0; cur_sample < data->num_data; cur_sample++ )								\
++				ann->scale_mean_##where[ cur_neuron ] += data->where##put[ cur_sample ][ cur_neuron ];		\
++		for( cur_neuron = 0; cur_neuron < ann->num_##where##put; cur_neuron++ )								\
++			ann->scale_mean_##where[ cur_neuron ] /= (float)data->num_data;									\
++		/* Calculate deviation: sqrt(sum((x-mean)^2)/length) */												\
++		for( cur_neuron = 0; cur_neuron < ann->num_##where##put; cur_neuron++ )								\
++			ann->scale_deviation_##where[ cur_neuron ] = 0.0; 												\
++		for( cur_neuron = 0; cur_neuron < ann->num_##where##put; cur_neuron++ )								\
++			for( cur_sample = 0; cur_sample < data->num_data; cur_sample++ )								\
++				ann->scale_deviation_##where[ cur_neuron ] += 												\
++					/* Another local variable in macro? Oh no! */											\
++					( 																						\
++						data->where##put[ cur_sample ][ cur_neuron ] 										\
++						- ann->scale_mean_##where[ cur_neuron ] 											\
++					) 																						\
++					*																						\
++					( 																						\
++						data->where##put[ cur_sample ][ cur_neuron ] 										\
++						- ann->scale_mean_##where[ cur_neuron ] 											\
++					); 																						\
++		for( cur_neuron = 0; cur_neuron < ann->num_##where##put; cur_neuron++ )								\
++			ann->scale_deviation_##where[ cur_neuron ] =													\
++				sqrt( ann->scale_deviation_##where[ cur_neuron ] / (float)data->num_data ); 				\
++		/* Calculate factor: (new_max-new_min)/(old_max(1)-old_min(-1)) */									\
++		/* Looks like we dont need whole array of factors? */												\
++		for( cur_neuron = 0; cur_neuron < ann->num_##where##put; cur_neuron++ )								\
++			ann->scale_factor_##where[ cur_neuron ] =														\
++				( new_##where##put_max - new_##where##put_min )												\
++				/																							\
++				( 1.0 - ( -1.0 ) );																			\
++		/* Copy new minimum. */																				\
++		/* Looks like we dont need whole array of new minimums? */											\
++		for( cur_neuron = 0; cur_neuron < ann->num_##where##put; cur_neuron++ )								\
++			ann->scale_new_min_##where[ cur_neuron ] = new_##where##put_min;
++	//------------------------------------------------------------------------
++	if( is_input_scale_needed )
++		SCALE_GET_PARAM( in );
++
++	if( is_output_scale_needed )
++		SCALE_GET_PARAM( out );
++	#undef SCALE_GET_PARAM
++}
++#endif
+Index: src/include/fann_data.h
+===================================================================
+RCS file: /cvsroot/fann/fann/src/include/fann_data.h,v
+retrieving revision 1.35
+diff -b -U5 -r1.35 fann_data.h
+--- src/include/fann_data.h	22 Feb 2006 04:52:46 -0000	1.35
++++ src/include/fann_data.h	9 Mar 2006 16:38:22 -0000
+@@ -721,10 +721,43 @@
+ 	 * This is used for the momentum term in the backpropagation algorithm.
+ 	 * Not allocated if not used.	 
+ 	 */
+ 	fann_type *prev_weights_deltas;
+ 	
++#ifndef FIXEDFANN
++	/* Arithmetic mean used to remove steady component in input data.  */
++	float *scale_mean_in;
++
++	/* Standart deviation used to normalize input data (mostly to [-1;1]). */
++	float *scale_deviation_in;
++
++	/* User-defined new minimum for input data.
++	 * Resulting data values may be less than user-defined minimum. 
++	 */
++	float *scale_new_min_in;
++
++	/* Used to scale data to user-defined new maximum for input data.
++	 * Resulting data values may be greater than user-defined maximum. 
++	 */
++	float *scale_factor_in;
++	
++	/* Arithmetic mean used to remove steady component in output data.  */
++	float *scale_mean_out;
++
++	/* Standart deviation used to normalize output data (mostly to [-1;1]). */
++	float *scale_deviation_out;
++
++	/* User-defined new minimum for output data.
++	 * Resulting data values may be less than user-defined minimum. 
++	 */
++	float *scale_new_min_out;
++
++	/* Used to scale data to user-defined new maximum for output data.
++	 * Resulting data values may be greater than user-defined maximum. 
++	 */
++	float *scale_factor_out;
++#endif
+ };
+ 
+ /* Type: fann_connection
+ 
+     Describes a connection between two neurons and its weight
+Index: src/include/fann_internal.h
+===================================================================
+RCS file: /cvsroot/fann/fann/src/include/fann_internal.h,v
+retrieving revision 1.37
+diff -b -U5 -r1.37 fann_internal.h
+--- src/include/fann_internal.h	6 Jan 2006 19:12:14 -0000	1.37
++++ src/include/fann_internal.h	9 Mar 2006 16:38:22 -0000
+@@ -26,11 +26,11 @@
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include "fann_data.h"
+ 
+ #define FANN_FIX_VERSION "FANN_FIX_2.0"
+-#define FANN_FLO_VERSION "FANN_FLO_2.0"
++#define FANN_FLO_VERSION "FANN_FLO_2.1"
+ 
+ #ifdef FIXEDFANN
+ #define FANN_CONF_VERSION FANN_FIX_VERSION
+ #else
+ #define FANN_CONF_VERSION FANN_FLO_VERSION
+Index: src/include/fann_train.h
+===================================================================
+RCS file: /cvsroot/fann/fann/src/include/fann_train.h,v
+retrieving revision 1.16
+diff -b -U5 -r1.16 fann_train.h
+--- src/include/fann_train.h	20 Feb 2006 07:35:42 -0000	1.16
++++ src/include/fann_train.h	9 Mar 2006 16:38:22 -0000
+@@ -1003,6 +1003,47 @@
+ 
+    This function appears in FANN >= 1.2.0.
+ */
+ FANN_EXTERNAL void FANN_API fann_set_rprop_delta_max(struct fann *ann, float rprop_delta_max);
+ 
++#ifndef FIXEDFANN
++/* Function: fann_scale2_input_vector_in
++
++   Scale data in input vector before feed it to ann based on previously calculated parameters.
++ */
++FANN_EXTERNAL void FANN_API fann_scale2_input_vector_in( const struct fann *ann, fann_type *vector );
++
++/* Function: fann_scale2_output_vector_in
++
++   Scale data in output vector before feed it to ann based on previously calculated parameters.
++ */
++FANN_EXTERNAL void FANN_API fann_scale2_output_vector_in( const struct fann *ann, fann_type *vector );
++
++/* Function: fann_scale2_output_vector_out
++
++   Scale data in output vector after get it from ann based on previously calculated parameters.
++ */
++FANN_EXTERNAL void FANN_API fann_scale2_output_vector_out( const struct fann *ann, fann_type *vector );
++
++/* Function: fann_scale2_train_data
++
++   Scale input and output data based on previously calculated parameters.
++ */
++FANN_EXTERNAL void FANN_API fann_scale2_train_data( const struct fann *ann, struct fann_train_data *data );
++
++/* Function: fann_get_scaling_params
++
++   Calculate scaling parameters for future use based on training data.
++ */
++FANN_EXTERNAL void FANN_API fann_get_scaling_params(
++	const struct fann_train_data *data,
++	unsigned is_input_scale_needed,
++	unsigned is_output_scale_needed,
++	float new_input_min,
++	float new_input_max,
++	float new_output_min,
++	float new_output_max,
++	struct fann *ann
++	);
++#endif	
++
+ #endif

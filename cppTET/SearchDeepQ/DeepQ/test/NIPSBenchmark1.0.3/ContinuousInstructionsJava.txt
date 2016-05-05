@@ -1,0 +1,50 @@
+Instructions for creating an entry for the continuous aspect of the NIPS
+benchmarking, using Java:
+
+To run a Java agent with the benchmarking software, you must use the pipe
+method of interaction.  The following are the instructions for this method:
+
+1.  Create an agent to learn in one or more (ideally all) of the continuous
+domains.  This agent should be in the file <YourAgent>.java in the Agent
+directory.  See Agent/NIPSContinuousRandomAgent.java for an example of how to
+implement the required methods.  Note that your agent must return a unique
+string in the agent_get_name() method; this string is used to distinguish your
+results files from everyone else's - please use a descriptive string that
+identifies you, your institution, your agent (especially if you are entering
+multiple agents), and, if possible, a label to distinguish different tunings of
+your parameters (e.g. "tuned_for_MountainCar").  Note that this string will be
+used to create a filename, so no special characters, please.
+
+2. In the Agent directory, there is a makefile
+  (makefileContinuousRandomAgentJava) that builds the NIPSContinuousRandomAgent.
+  Copy this makefile to makefile<YourAgent>.  Replace the line
+   "AGENT = NIPSContinuousRandomAgent.java" with the line
+   "AGENT = <YourAgent>.java".  Make your agent (and the pipe interaction glue):
+   make -f makefile<YourAgent> clean
+   make -f makefile<YourAgent>
+   This creates the class files for your agent and Java_agent_handler.class.
+3. You need to build the continuous environments.  In the Env directory, there
+   is a makefile (makefileContinuous) to do so.  Make the executables:
+   make -f makefileContinuous clean
+   make -f makefileContinuous
+   This creates three executables called RLMountainCar, RLCartPole, and
+   RLPuddleWorld.
+4. There is a build script (build.bash) in the main distribution directory.
+   This script makes use of a configuration file (config.txt) to determine what
+   type of executable to build.  For the pipes method, you will only need to
+   build one executable - one that runs a continuous (Java) agent against a
+   continuous environment.  Copy config.txt.continuous.JavaPipes to config.txt
+   in the base directory.  Run build.bash - this creates an executable called
+   RL_main that will be used to run your agent against any of the environments.
+5. For each environment in which your agent is to enter:
+   a. Find the appropriate config.txt.* file (e.g.
+     config.txt.JavaPipesMountainCar) in the configs directory.  Copy it to
+     config.txt in the base directory.  Replace the line:
+     "Agent = Agent/Build/NIPSContinuousRandomAgent" with the line:
+     "Agent = Agent/Build/<YourAgent>"
+   b. Run RL_main - this produces an output file in Data called
+     MountainCar_<your_agent_string>.dat (for the MountainCar domain).  Its 3
+     columns represent the average wall time, average reward, and average number
+     of steps taken in each of the 50-episode blocks of the learning process.
+
+3. Submit your Data files.

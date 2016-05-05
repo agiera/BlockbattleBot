@@ -1,0 +1,42 @@
+.PHONY: all clean RLcom RLcommon 
+
+HANDLEV = env_pipe_handler.cpp
+COMMON = NIPS_continuous_common.h
+
+all: MountainCar CartPole PuddleWorld tidy
+	
+MountainCar: RLcom RLcommon Build/MountainCar_env.o Build/handle.o
+	${CXX} Build/MountainCar_env.o Build/handle.o -lm -o Build/RLMountainCar
+	-if test -f Build/RLMountainCar.exe; then mv Build/RLMountainCar.exe Build/RLMountainCar; fi;
+
+CartPole: RLcom RLcommon Build/CartPole_env.o Build/handle.o
+	${CXX} Build/CartPole_env.o Build/handle.o -lm -o Build/RLCartPole
+	-if test -f Build/RLCartPole.exe; then mv Build/RLCartPole.exe RLCartPole; fi;
+
+PuddleWorld: RLcom RLcommon Build/PuddleWorld_env.o Build/handle.o
+	${CXX} Build/PuddleWorld_env.o Build/handle.o -lm -o Build/RLPuddleWorld
+	-if test -f Build/RLPuddleWorld.exe; then mv Build/RLPuddleWorld.exe Build/RLPuddleWorld; fi;
+
+RLcom:
+	-rm -rf RLcommon.h
+
+RLcommon: ../Env/$(COMMON)
+	cp ../Env/$(COMMON) RLcommon.h
+
+Build/MountainCar_env.o: MountainCar.cpp
+	${CXX} -g -o Build/MountainCar_env.o -c MountainCar.cpp
+
+Build/CartPole_env.o: CartPole.cpp
+	${CXX} -g -o Build/CartPole_env.o -c CartPole.cpp
+
+Build/PuddleWorld_env.o: PuddleWorld.cpp
+	${CXX} -g -o Build/PuddleWorld_env.o -c PuddleWorld.cpp
+
+Build/handle.o: ../RL-Framework1p0/Pipes/$(HANDLEV)
+	${CXX} -I ../Env/ -g -o Build/handle.o -c ../RL-Framework1p0/Pipes/$(HANDLEV)
+
+clean:
+	-rm -rf Build/*.o core* *.pyc Build/RLcommon.h Build/RLMountainCar Build/RLCartPole Build/RLPuddleWorld
+
+tidy:
+	-rm -rf *.o core* *.pyc RLcommon.h

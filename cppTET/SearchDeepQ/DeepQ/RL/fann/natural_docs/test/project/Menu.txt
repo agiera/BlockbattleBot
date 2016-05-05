@@ -1,0 +1,76 @@
+Format: 1.35
+
+
+Title: Fast Artificial Neural Network Library (FANN)
+SubTitle: Reference Manual for latest CVS release
+
+Footer: Created and managed by Steffen Nissen
+
+# These are indexes you deleted, so Natural Docs will not add them again
+# unless you remove them from this line.
+
+Don't Index: Files
+
+
+# --------------------------------------------------------------------------
+# 
+# Cut and paste the lines below to change the order in which your files
+# appear on the menu.  Don't worry about adding or removing files, Natural
+# Docs will take care of that.
+# 
+# You can further organize the menu by grouping the entries.  Add a
+# "Group: [name] {" line to start a group, and add a "}" to end it.
+# 
+# You can add text and web links to the menu by adding "Text: [text]" and
+# "Link: [name] ([URL])" lines, respectively.
+# 
+# The formatting and comments are auto-generated, so don't worry about
+# neatness when editing the file.  Natural Docs will clean it up the next
+# time it is run.  When working with groups, just deal with the braces and
+# forget about the indentation and comments.
+# 
+# You can use this file on other computers even if they use different
+# directories.  As long as the command line points to the same source files,
+# Natural Docs will be able to correct the locations automatically.
+# 
+# --------------------------------------------------------------------------
+
+
+Link: FANN HOME  (../../index.php)
+
+Group: Reference Manual  {
+
+   File: FANN Creation/Execution  (/home/lukesky/workspace/fann/src/include/fann.h)
+   File: FANN Training  (/home/lukesky/workspace/fann/src/include/fann_train.h)
+   File: FANN Cascade Training  (/home/lukesky/workspace/fann/src/include/fann_cascade.h)
+   File: FANN File Input/Output  (/home/lukesky/workspace/fann/src/include/fann_io.h)
+   File: FANN Error Handling  (/home/lukesky/workspace/fann/src/include/fann_error.h)
+   File: FANN Datatypes  (/home/lukesky/workspace/fann/src/include/fann_data.h)
+   File: FANN Wrapper for C++  (/home/lukesky/workspace/fann/src/include/fann_cpp.h)
+   }  # Group: Reference Manual
+
+Group: Tutorials  {
+
+   File: Installing FANN  (/home/lukesky/workspace/fann/doc/installation.txt)
+   File: Getting Started  (/home/lukesky/workspace/fann/doc/gettingstarted.txt)
+   File: Advanced Usage  (/home/lukesky/workspace/fann/doc/advancedusage.txt)
+   File: Fixed Point Usage  (/home/lukesky/workspace/fann/doc/fixedpointusage.txt)
+   File: Neural Network Theory  (/home/lukesky/workspace/fann/doc/theory.txt)
+   }  # Group: Tutorials
+
+Link: Download FANN  (../../index.php?p=download.php)
+
+Group: Index  {
+
+   Index: Everything
+   Class Index: Structs
+   Constant Index: Constants
+   Function Index: Functions
+   Type Index: Types
+   }  # Group: Index
+
+
+
+##### Do not change or remove these lines. #####
+Data: 1(D3333RuEG3oNAG6AQ37uHA6Ip9G3cp\\36H938\9oNfG)
+Data: 1(h3333RuEG3oNAG6AQ37uHA6Ip9G3cp\\3fu9)

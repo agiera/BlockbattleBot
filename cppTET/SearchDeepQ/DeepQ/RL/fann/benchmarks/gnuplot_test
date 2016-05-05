@@ -1,0 +1,389 @@
+
+set terminal postscript color solid
+set output "allplots.ps"
+
+set style line 1 lt 1 lw 1
+set style line 2 lt 2 lw 1
+set style line 3 lt 3 lw 1
+set style line 4 lt 4 lw 1
+set style line 5 lt 5 lw 1
+set style line 6 lt 6 lw 1
+set style line 7 lt 7 lw 1
+set style line 8 lt 8 lw 1
+set style line 9 lt 9 lw 1
+
+set grid
+
+set xlabel "Number of neurons in the four layers"
+set ylabel "Nanoseconds per connection"
+
+set logscale
+
+set title "Performance of execution"
+plot "fann_performance.out" title "fann" with lines -1, \
+ "fann_stepwise_performance.out" title "fann (stepwise)" with lines 2, \
+ "fann_fixed_performance.out" title "fann (fix)" with lines 1, \
+ "lwnn_performance.out" title "lwnn" with lines 8, \
+ "jneural_performance.out" title "jneural" with lines 9
+
+set nologscale
+
+set xlabel "Seconds of training"
+set ylabel "Mean square error"
+
+set logscale x
+set title "abelone"
+plot  "abelone.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "abelone.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "abelone.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "abelone.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "abelone.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "abelone.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "abelone.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "abelone.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "abelone.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "abelone.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "abelone.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "abelone.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "abelone.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "abelone.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "abelone.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "abelone.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "abelone.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "abelone.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "abelone.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "abelone.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "bank32fm"
+plot  "bank32fm.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "bank32fm.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "bank32fm.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "bank32fm.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "bank32fm.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "bank32fm.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "bank32fm.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "bank32fm.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "bank32fm.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "bank32fm.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "bank32fm.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "bank32fm.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "bank32fm.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "bank32fm.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "bank32fm.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "bank32fm.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "bank32fm.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "bank32fm.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "bank32fm.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "bank32fm.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "bank32nh"
+plot  "bank32nh.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "bank32nh.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "bank32nh.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "bank32nh.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "bank32nh.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "bank32nh.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "bank32nh.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "bank32nh.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "bank32nh.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "bank32nh.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "bank32nh.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "bank32nh.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "bank32nh.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "bank32nh.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "bank32nh.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "bank32nh.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "bank32nh.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "bank32nh.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "bank32nh.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "bank32nh.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "building"
+plot  "building.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "building.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "building.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "building.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "building.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "building.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "building.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "building.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "building.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "building.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "building.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "building.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "building.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "building.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "building.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "building.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "building.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "building.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "building.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "building.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "census-house"
+plot  "census-house.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "census-house.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "census-house.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "census-house.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "census-house.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "census-house.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "census-house.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "census-house.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "census-house.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "census-house.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "census-house.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "census-house.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "census-house.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "census-house.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "census-house.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "census-house.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "census-house.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "census-house.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "census-house.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "census-house.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "diabetes"
+plot  "diabetes.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "diabetes.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "diabetes.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "diabetes.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "diabetes.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "diabetes.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "diabetes.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "diabetes.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "diabetes.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "diabetes.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "diabetes.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "diabetes.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "diabetes.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "diabetes.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "diabetes.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "diabetes.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "diabetes.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "diabetes.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "diabetes.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "diabetes.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "gene"
+plot  "gene.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "gene.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "gene.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "gene.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "gene.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "gene.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "gene.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "gene.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "gene.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "gene.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "gene.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "gene.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "gene.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "gene.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "gene.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "gene.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "gene.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "gene.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "gene.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "gene.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "kin32fm"
+plot  "kin32fm.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "kin32fm.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "kin32fm.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "kin32fm.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "kin32fm.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "kin32fm.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "kin32fm.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "kin32fm.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "kin32fm.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "kin32fm.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "kin32fm.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "kin32fm.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "kin32fm.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "kin32fm.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "kin32fm.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "kin32fm.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "kin32fm.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "kin32fm.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "kin32fm.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "kin32fm.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "mushroom"
+plot  "mushroom.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "mushroom.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "mushroom.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "mushroom.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "mushroom.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "mushroom.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "mushroom.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "mushroom.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "mushroom.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "mushroom.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "mushroom.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "mushroom.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "mushroom.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "mushroom.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "mushroom.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "mushroom.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "mushroom.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "mushroom.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "mushroom.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "mushroom.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "parity8"
+plot  "parity8.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One " w l lt 1 lw 2, \
+ "parity8.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi " w l lt 2 lw 2, \
+ "parity8.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One " w l lt 3 lw 2, \
+ "parity8.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi " w l lt 4 lw 2, \
+ "parity8.fann_rprop.train.out" title "iRPROP- " w l lt 5 lw 2, \
+ "parity8.fann_quickprop.train.out" title "Quickprop " w l lt 6 lw 2, \
+ "parity8.fann_batch.train.out" title "Batch " w l lt 7 lw 2, \
+ "parity8.fann_incremental_momentum.train.out" title "Incremental " w l lt 8 lw 2, \
+ "parity8.lwnn.train.out" title "(External) Lwnn Incremental " w l lt 9 lw 2, \
+ "parity8.jneural.train.out" title "(External) Jneural Incremental " w l lt 10 lw 2
+set nologscale
+
+set logscale x
+set title "parity13"
+plot  "parity13.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One " w l lt 1 lw 2, \
+ "parity13.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi " w l lt 2 lw 2, \
+ "parity13.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One " w l lt 3 lw 2, \
+ "parity13.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi " w l lt 4 lw 2, \
+ "parity13.fann_rprop.train.out" title "iRPROP- " w l lt 5 lw 2, \
+ "parity13.fann_quickprop.train.out" title "Quickprop " w l lt 6 lw 2, \
+ "parity13.fann_batch.train.out" title "Batch " w l lt 7 lw 2, \
+ "parity13.fann_incremental_momentum.train.out" title "Incremental " w l lt 8 lw 2, \
+ "parity13.lwnn.train.out" title "(External) Lwnn Incremental " w l lt 9 lw 2, \
+ "parity13.jneural.train.out" title "(External) Jneural Incremental " w l lt 10 lw 2
+set nologscale
+
+set logscale y
+set title "pumadyn-32fm"
+plot  "pumadyn-32fm.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "pumadyn-32fm.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "pumadyn-32fm.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "pumadyn-32fm.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "pumadyn-32fm.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "pumadyn-32fm.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "pumadyn-32fm.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "pumadyn-32fm.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "pumadyn-32fm.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "pumadyn-32fm.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "pumadyn-32fm.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "pumadyn-32fm.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "pumadyn-32fm.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "pumadyn-32fm.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "pumadyn-32fm.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "pumadyn-32fm.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "pumadyn-32fm.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "pumadyn-32fm.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "pumadyn-32fm.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "pumadyn-32fm.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale
+set title "robot"
+plot  "robot.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "robot.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "robot.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "robot.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "robot.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "robot.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "robot.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "robot.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "robot.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "robot.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "robot.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "robot.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "robot.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "robot.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "robot.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "robot.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "robot.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "robot.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "robot.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "robot.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "soybean"
+plot  "soybean.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "soybean.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "soybean.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "soybean.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "soybean.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "soybean.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "soybean.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "soybean.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "soybean.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "soybean.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "soybean.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "soybean.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "soybean.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "soybean.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "soybean.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "soybean.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "soybean.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "soybean.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "soybean.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "soybean.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale y
+set title "thyroid"
+plot  "thyroid.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One Train" w l lt 1 lw 2, \
+ "thyroid.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi Train" w l lt 2 lw 2, \
+ "thyroid.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One Train" w l lt 3 lw 2, \
+ "thyroid.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi Train" w l lt 4 lw 2, \
+ "thyroid.fann_rprop.train.out" title "iRPROP- Train" w l lt 5 lw 2, \
+ "thyroid.fann_quickprop.train.out" title "Quickprop Train" w l lt 6 lw 2, \
+ "thyroid.fann_batch.train.out" title "Batch Train" w l lt 7 lw 2, \
+ "thyroid.fann_incremental_momentum.train.out" title "Incremental Train" w l lt 8 lw 2, \
+ "thyroid.lwnn.train.out" title "(External) Lwnn Incremental Train" w l lt 9 lw 2, \
+ "thyroid.jneural.train.out" title "(External) Jneural Incremental Train" w l lt 10 lw 2, \
+ "thyroid.fann_cascade_rprop_one_activation.test.out" title "Cascade2 RPROP One Test" w l lt 1 lw 1, \
+ "thyroid.fann_cascade_rprop_multi_activation.test.out" title "Cascade2 RPROP Multi Test" w l lt 2 lw 1, \
+ "thyroid.fann_cascade_quickprop_one_activation.test.out" title "Cascade2 Quickprop One Test" w l lt 3 lw 1, \
+ "thyroid.fann_cascade_quickprop_multi_activation.test.out" title "Cascade2 Quickprop Multi Test" w l lt 4 lw 1, \
+ "thyroid.fann_rprop.test.out" title "iRPROP- Test" w l lt 5 lw 1, \
+ "thyroid.fann_quickprop.test.out" title "Quickprop Test" w l lt 6 lw 1, \
+ "thyroid.fann_batch.test.out" title "Batch Test" w l lt 7 lw 1, \
+ "thyroid.fann_incremental_momentum.test.out" title "Incremental Test" w l lt 8 lw 1, \
+ "thyroid.lwnn.test.out" title "(External) Lwnn Incremental Test" w l lt 9 lw 1, \
+ "thyroid.jneural.test.out" title "(External) Jneural Incremental Test" w l lt 10 lw 1
+set nologscale
+
+set logscale x
+set title "two-spiral"
+plot  "two-spiral.fann_cascade_rprop_one_activation.train.out" title "Cascade2 RPROP One " w l lt 1 lw 2, \
+ "two-spiral.fann_cascade_rprop_multi_activation.train.out" title "Cascade2 RPROP Multi " w l lt 2 lw 2, \
+ "two-spiral.fann_cascade_quickprop_one_activation.train.out" title "Cascade2 Quickprop One " w l lt 3 lw 2, \
+ "two-spiral.fann_cascade_quickprop_multi_activation.train.out" title "Cascade2 Quickprop Multi " w l lt 4 lw 2, \
+ "two-spiral.fann_rprop.train.out" title "iRPROP- " w l lt 5 lw 2, \
+ "two-spiral.fann_quickprop.train.out" title "Quickprop " w l lt 6 lw 2, \
+ "two-spiral.fann_batch.train.out" title "Batch " w l lt 7 lw 2, \
+ "two-spiral.fann_incremental_momentum.train.out" title "Incremental " w l lt 8 lw 2, \
+ "two-spiral.lwnn.train.out" title "(External) Lwnn Incremental " w l lt 9 lw 2, \
+ "two-spiral.jneural.train.out" title "(External) Jneural Incremental " w l lt 10 lw 2
+set nologscale
+
+set output
+set terminal x11

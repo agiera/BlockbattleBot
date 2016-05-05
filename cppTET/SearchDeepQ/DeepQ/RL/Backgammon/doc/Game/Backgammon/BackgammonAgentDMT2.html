@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML><!--JBuilder QuickDoc-->
+<HEAD>
+<TITLE>Class Game.Backgammon.BackgammonAgentDMT2</TITLE><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=utf-8">
+</HEAD>
+<BODY>
+
+<H2>
+<FONT SIZE="-1">Game.Backgammon</FONT>
+<BR>Class BackgammonAgentDMT2</H2>
+<DL>
+<DT>public class <B>BackgammonAgentDMT2</B><DT>extends AbstractBackgammonAgent
+</DL>
+<DL><DD><p>Title: CC-Gammon</p> <p>Description: A Backgammon player using function approximators.</p> <p>Copyright: Copyright (c) 2004</p> <p>Company: McGill University</p> <p>Backgammon agent that uses simulated trajectories to produce rehearsal data.</p> <p> Version 2 allows trajectories to be sampled with a certain probability.</p><DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>Version:</B><DD>2.0</DD>
+<DT><B>Author:</B><DD>Marc G. Bellemare</DD>
+</DL>
+<TABLE BORDER="1" CELLPADDING="3" CELLSPACING="0" WIDTH="100%">
+<TR BGCOLOR="#CCCCFF"><TD COLSPAN=1><FONT SIZE="+2">
+<B>Field Detail</B>
+</FONT></TD></TR></TABLE>
+
+<H3>m_SamplingMode</H3>
+<PRE>
+protected boolean <B>m_SamplingMode</B></PRE>
+<DL><DD>Whether we are in sampling mode (creating sample trajectories)<DL><DD></DD></DL></DD>
+</DL>
+<DL></DL>
+<HR>
+
+<H3>m_xEvalMode</H3>
+<PRE>
+protected boolean <B>m_xEvalMode</B></PRE>
+<DL><DD>Stores the last evaluation mode before we went into sampling mode<DL><DD></DD></DL></DD>
+</DL>
+<DL></DL>
+<HR>
+
+<H3>m_SamplingPlayer</H3>
+<PRE>
+protected int <B>m_SamplingPlayer</B></PRE>
+<DL><DD>Which color is being used as sampler<DL><DD></DD></DL></DD>
+</DL>
+<DL></DL>
+<HR>
+
+<H3>m_SampleCount</H3>
+<PRE>
+protected double <B>m_SampleCount</B></PRE>
+<DL><DD>Number of samples to rehearse for each fresh data<DL><DD></DD></DL></DD>
+</DL>
+<DL></DL>
+<HR>
+
+<TABLE BORDER="1" CELLPADDING="3" CELLSPACING="0" WIDTH="100%">
+<TR BGCOLOR="#CCCCFF"><TD COLSPAN=1><FONT SIZE="+2">
+<B>Method Detail</B>
+</FONT></TD></TR></TABLE>
+
+<H3>endEpisode</H3>
+<PRE>
+public void <B>endEpisode</B>(State&nbsp;s)</PRE>
+<DL><DD>Called at the end of an episode. We will then sample additional trajectories using the current policy (no learning). We will use those samples as rehearsal data. Note: This assumes that we are playing against ourselves. Against another opponent, the MDP will be different and rehearsal, biased. However it is more intuitive to simulate trajectories with ourselves, since we do not necessarily have access to the opponent.<DL><DD></DD></DL></DD>
+</DL>
+<DL><DT><B>Parameters:</B><DD><CODE>s</CODE> - Unused.</DD>
+</DL>
+<HR>
+
+</BODY>
+</HTML>

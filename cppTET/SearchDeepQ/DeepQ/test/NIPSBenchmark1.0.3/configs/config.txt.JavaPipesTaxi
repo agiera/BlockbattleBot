@@ -1,0 +1,8 @@
+Agent_language = java
+Env_language = c
+Agent = Agent/Build/NIPSDiscreteRandomAgent
+env = Env/Build/RLTaxi
+main = main_NIPS.cpp
+common = Env/NIPS_discrete_common.h
+
+

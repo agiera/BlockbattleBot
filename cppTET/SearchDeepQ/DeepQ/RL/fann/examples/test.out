@@ -1,0 +1,378 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls  ms/call  ms/call  name    
+ 55.18      0.16     0.16   101888     0.00     0.00  fann_update_candidate_slopes
+ 20.69      0.22     0.06   212992     0.00     0.00  fann_run
+ 17.24      0.27     0.05   925440     0.00     0.00  fann_activation_derived
+  6.90      0.29     0.02   110336     0.00     0.00  fann_update_slopes_batch
+  0.00      0.29     0.00   815104     0.00     0.00  fann_activation
+  0.00      0.29     0.00   110848     0.00     0.00  fann_update_MSE
+  0.00      0.29     0.00   110336     0.00     0.00  fann_compute_MSE
+  0.00      0.29     0.00   102691     0.00     0.00  fann_get_cascade_num_candidates
+  0.00      0.29     0.00      829     0.00     0.00  fann_update_weights_irpropm
+  0.00      0.29     0.00      512     0.00     0.00  fann_test
+  0.00      0.29     0.00      440     0.00     0.00  fann_get_MSE
+  0.00      0.29     0.00      437     0.00     0.00  fann_desired_error_reached
+  0.00      0.29     0.00      433     0.00     0.00  fann_reset_MSE
+  0.00      0.29     0.00      431     0.00     0.13  fann_train_outputs_epoch
+  0.00      0.29     0.00      398     0.00     0.58  fann_train_candidates_epoch
+  0.00      0.29     0.00      398     0.00     0.00  fann_update_candidate_weights
+  0.00      0.29     0.00       40     0.00     0.00  initialize_candidate_weights
+  0.00      0.29     0.00        7     0.00     0.00  fann_clear_train_arrays
+  0.00      0.29     0.00        7     0.00     8.15  fann_train_outputs
+  0.00      0.29     0.00        5     0.00     0.00  fann_add_candidate_neuron
+  0.00      0.29     0.00        5     0.00     0.00  fann_add_layer
+  0.00      0.29     0.00        5     0.00     0.00  fann_initialize_candidates
+  0.00      0.29     0.00        5     0.00     0.00  fann_install_candidate
+  0.00      0.29     0.00        5     0.00    46.55  fann_train_candidates
+  0.00      0.29     0.00        4     0.00     0.00  fann_scale_data
+  0.00      0.29     0.00        3     0.00     0.00  fann_init_error_data
+  0.00      0.29     0.00        2     0.00     0.00  fann_destroy_train
+  0.00      0.29     0.00        2     0.00     0.00  fann_get_bit_fail
+  0.00      0.29     0.00        2     0.00     0.00  fann_get_total_neurons
+  0.00      0.29     0.00        2     0.00     0.00  fann_read_train_from_fd
+  0.00      0.29     0.00        2     0.00     0.00  fann_read_train_from_file
+  0.00      0.29     0.00        2     0.00     0.00  fann_save
+  0.00      0.29     0.00        2     0.00     0.00  fann_save_internal
+  0.00      0.29     0.00        2     0.00     0.00  fann_save_internal_fd
+  0.00      0.29     0.00        2     0.00     0.00  fann_scale_train_data
+  0.00      0.29     0.00        2     0.00     0.07  fann_test_data
+  0.00      0.29     0.00        1     0.00     0.00  fann_allocate_connections
+  0.00      0.29     0.00        1     0.00     0.00  fann_allocate_neurons
+  0.00      0.29     0.00        1     0.00     0.00  fann_allocate_structure
+  0.00      0.29     0.00        1     0.00   289.80  fann_cascadetrain_on_data
+  0.00      0.29     0.00        1     0.00     0.00  fann_create_shortcut
+  0.00      0.29     0.00        1     0.00     0.00  fann_create_shortcut_array
+  0.00      0.29     0.00        1     0.00     0.00  fann_destroy
+  0.00      0.29     0.00        1     0.00     0.00  fann_get_num_output
+  0.00      0.29     0.00        1     0.00     0.00  fann_num_input_train_data
+  0.00      0.29     0.00        1     0.00     0.00  fann_num_output_train_data
+  0.00      0.29     0.00        1     0.00     0.00  fann_print_connections
+  0.00      0.29     0.00        1     0.00     0.00  fann_print_parameters
+  0.00      0.29     0.00        1     0.00     0.00  fann_reallocate_connections
+  0.00      0.29     0.00        1     0.00     0.00  fann_reallocate_neurons
+  0.00      0.29     0.00        1     0.00     0.00  fann_seed_rand
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_activation_function_hidden
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_activation_function_output
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_bit_fail_limit
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_cascade_activation_functions
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_cascade_activation_steepnesses
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_cascade_num_candidate_groups
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_shortcut_connections
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_train_error_function
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_train_stop_function
+  0.00      0.29     0.00        1     0.00     0.00  fann_set_training_algorithm
+
+			Call graph
+
+
+granularity: each sample hit covers 2 byte(s) for 3.45% of 0.29 seconds
+
+index % time    self  children    called     name
+                                                 <spontaneous>
+[1]    100.0    0.00    0.29                 main [1]
+                0.00    0.29       1/1           fann_cascadetrain_on_data [2]
+                0.00    0.00       2/2           fann_test_data [13]
+                0.00    0.00     256/212992      fann_run [6]
+                0.00    0.00       2/2           fann_read_train_from_file [34]
+                0.00    0.00       2/2           fann_scale_train_data [38]
+                0.00    0.00       2/2           fann_save [35]
+                0.00    0.00       2/2           fann_get_bit_fail [31]
+                0.00    0.00       2/2           fann_destroy_train [30]
+                0.00    0.00       1/1           fann_num_output_train_data [47]
+                0.00    0.00       1/1           fann_num_input_train_data [46]
+                0.00    0.00       1/1           fann_create_shortcut [42]
+                0.00    0.00       1/1           fann_set_training_algorithm [62]
+                0.00    0.00       1/1           fann_set_activation_function_hidden [53]
+                0.00    0.00       1/1           fann_set_activation_function_output [54]
+                0.00    0.00       1/1           fann_set_train_error_function [60]
+                0.00    0.00       1/1           fann_set_cascade_activation_steepnesses [57]
+                0.00    0.00       1/1           fann_set_cascade_activation_functions [56]
+                0.00    0.00       1/1           fann_set_cascade_num_candidate_groups [58]
+                0.00    0.00       1/1           fann_set_bit_fail_limit [55]
+                0.00    0.00       1/1           fann_set_train_stop_function [61]
+                0.00    0.00       1/1           fann_print_parameters [49]
+                0.00    0.00       1/1           fann_print_connections [48]
+                0.00    0.00       1/1           fann_destroy [44]
+-----------------------------------------------
+                0.00    0.29       1/1           main [1]
+[2]     99.9    0.00    0.29       1         fann_cascadetrain_on_data [2]
+                0.00    0.23       5/5           fann_train_candidates [4]
+                0.00    0.06       7/7           fann_train_outputs [8]
+                0.00    0.00       7/440         fann_get_MSE [18]
+                0.00    0.00       6/437         fann_desired_error_reached [19]
+                0.00    0.00       5/5           fann_initialize_candidates [26]
+                0.00    0.00       5/5           fann_install_candidate [27]
+                0.00    0.00       1/1           fann_set_shortcut_connections [59]
+-----------------------------------------------
+                0.00    0.23     398/398         fann_train_candidates [4]
+[3]     80.3    0.00    0.23     398         fann_train_candidates_epoch [3]
+                0.16    0.04  101888/101888      fann_update_candidate_slopes [5]
+                0.03    0.00  101888/212992      fann_run [6]
+                0.00    0.00     398/102691      fann_get_cascade_num_candidates [16]
+                0.00    0.00     398/398         fann_update_candidate_weights [21]
+-----------------------------------------------
+                0.00    0.23       5/5           fann_cascadetrain_on_data [2]
+[4]     80.3    0.00    0.23       5         fann_train_candidates [4]
+                0.00    0.23     398/398         fann_train_candidates_epoch [3]
+                0.00    0.00       1/102691      fann_get_cascade_num_candidates [16]
+-----------------------------------------------
+                0.16    0.04  101888/101888      fann_train_candidates_epoch [3]
+[5]     70.4    0.16    0.04  101888         fann_update_candidate_slopes [5]
+                0.04    0.00  815104/925440      fann_activation_derived [9]
+                0.00    0.00  815104/815104      fann_activation [14]
+                0.00    0.00  101888/102691      fann_get_cascade_num_candidates [16]
+-----------------------------------------------
+                0.00    0.00     256/212992      main [1]
+                0.00    0.00     512/212992      fann_test [12]
+                0.03    0.00  101888/212992      fann_train_candidates_epoch [3]
+                0.03    0.00  110336/212992      fann_train_outputs_epoch [7]
+[6]     20.7    0.06    0.00  212992         fann_run [6]
+-----------------------------------------------
+                0.00    0.06     431/431         fann_train_outputs [8]
+[7]     19.7    0.00    0.06     431         fann_train_outputs_epoch [7]
+                0.03    0.00  110336/212992      fann_run [6]
+                0.02    0.00  110336/110336      fann_update_slopes_batch [10]
+                0.00    0.01  110336/110336      fann_compute_MSE [11]
+                0.00    0.00     431/433         fann_reset_MSE [20]
+                0.00    0.00     431/829         fann_update_weights_irpropm [17]
+                0.00    0.00     431/440         fann_get_MSE [18]
+-----------------------------------------------
+                0.00    0.06       7/7           fann_cascadetrain_on_data [2]
+[8]     19.7    0.00    0.06       7         fann_train_outputs [8]
+                0.00    0.06     431/431         fann_train_outputs_epoch [7]
+                0.00    0.00     431/437         fann_desired_error_reached [19]
+                0.00    0.00       7/7           fann_clear_train_arrays [23]
+-----------------------------------------------
+                0.01    0.00  110336/925440      fann_compute_MSE [11]
+                0.04    0.00  815104/925440      fann_update_candidate_slopes [5]
+[9]     17.2    0.05    0.00  925440         fann_activation_derived [9]
+-----------------------------------------------
+                0.02    0.00  110336/110336      fann_train_outputs_epoch [7]
+[10]     6.9    0.02    0.00  110336         fann_update_slopes_batch [10]
+-----------------------------------------------
+                0.00    0.01  110336/110336      fann_train_outputs_epoch [7]
+[11]     2.1    0.00    0.01  110336         fann_compute_MSE [11]
+                0.01    0.00  110336/925440      fann_activation_derived [9]
+                0.00    0.00  110336/110848      fann_update_MSE [15]
+-----------------------------------------------
+                0.00    0.00     512/512         fann_test_data [13]
+[12]     0.0    0.00    0.00     512         fann_test [12]
+                0.00    0.00     512/212992      fann_run [6]
+                0.00    0.00     512/110848      fann_update_MSE [15]
+-----------------------------------------------
+                0.00    0.00       2/2           main [1]
+[13]     0.0    0.00    0.00       2         fann_test_data [13]
+                0.00    0.00     512/512         fann_test [12]
+                0.00    0.00       2/433         fann_reset_MSE [20]
+                0.00    0.00       2/440         fann_get_MSE [18]
+-----------------------------------------------
+                0.00    0.00  815104/815104      fann_update_candidate_slopes [5]
+[14]     0.0    0.00    0.00  815104         fann_activation [14]
+-----------------------------------------------
+                0.00    0.00     512/110848      fann_test [12]
+                0.00    0.00  110336/110848      fann_compute_MSE [11]
+[15]     0.0    0.00    0.00  110848         fann_update_MSE [15]
+-----------------------------------------------
+                0.00    0.00       1/102691      fann_print_parameters [49]
+                0.00    0.00       1/102691      fann_train_candidates [4]
+                0.00    0.00       5/102691      fann_initialize_candidates [26]
+                0.00    0.00     398/102691      fann_update_candidate_weights [21]
+                0.00    0.00     398/102691      fann_train_candidates_epoch [3]
+                0.00    0.00  101888/102691      fann_update_candidate_slopes [5]
+[16]     0.0    0.00    0.00  102691         fann_get_cascade_num_candidates [16]
+-----------------------------------------------
+                0.00    0.00     398/829         fann_update_candidate_weights [21]
+                0.00    0.00     431/829         fann_train_outputs_epoch [7]
+[17]     0.0    0.00    0.00     829         fann_update_weights_irpropm [17]
+-----------------------------------------------
+                0.00    0.00       2/440         fann_test_data [13]
+                0.00    0.00       7/440         fann_cascadetrain_on_data [2]
+                0.00    0.00     431/440         fann_train_outputs_epoch [7]
+[18]     0.0    0.00    0.00     440         fann_get_MSE [18]
+-----------------------------------------------
+                0.00    0.00       6/437         fann_cascadetrain_on_data [2]
+                0.00    0.00     431/437         fann_train_outputs [8]
+[19]     0.0    0.00    0.00     437         fann_desired_error_reached [19]
+-----------------------------------------------
+                0.00    0.00       2/433         fann_test_data [13]
+                0.00    0.00     431/433         fann_train_outputs_epoch [7]
+[20]     0.0    0.00    0.00     433         fann_reset_MSE [20]
+-----------------------------------------------
+                0.00    0.00     398/398         fann_train_candidates_epoch [3]
+[21]     0.0    0.00    0.00     398         fann_update_candidate_weights [21]
+                0.00    0.00     398/102691      fann_get_cascade_num_candidates [16]
+                0.00    0.00     398/829         fann_update_weights_irpropm [17]
+-----------------------------------------------
+                0.00    0.00      40/40          fann_initialize_candidates [26]
+[22]     0.0    0.00    0.00      40         initialize_candidate_weights [22]
+-----------------------------------------------
+                0.00    0.00       7/7           fann_train_outputs [8]
+[23]     0.0    0.00    0.00       7         fann_clear_train_arrays [23]
+-----------------------------------------------
+                0.00    0.00       5/5           fann_install_candidate [27]
+[24]     0.0    0.00    0.00       5         fann_add_candidate_neuron [24]
+-----------------------------------------------
+                0.00    0.00       5/5           fann_install_candidate [27]
+[25]     0.0    0.00    0.00       5         fann_add_layer [25]
+-----------------------------------------------
+                0.00    0.00       5/5           fann_cascadetrain_on_data [2]
+[26]     0.0    0.00    0.00       5         fann_initialize_candidates [26]
+                0.00    0.00      40/40          initialize_candidate_weights [22]
+                0.00    0.00       5/102691      fann_get_cascade_num_candidates [16]
+                0.00    0.00       1/1           fann_reallocate_neurons [51]
+                0.00    0.00       1/1           fann_reallocate_connections [50]
+-----------------------------------------------
+                0.00    0.00       5/5           fann_cascadetrain_on_data [2]
+[27]     0.0    0.00    0.00       5         fann_install_candidate [27]
+                0.00    0.00       5/5           fann_add_layer [25]
+                0.00    0.00       5/5           fann_add_candidate_neuron [24]
+-----------------------------------------------
+                0.00    0.00       4/4           fann_scale_train_data [38]
+[28]     0.0    0.00    0.00       4         fann_scale_data [28]
+-----------------------------------------------
+                0.00    0.00       1/3           fann_allocate_structure [41]
+                0.00    0.00       2/3           fann_read_train_from_fd [33]
+[29]     0.0    0.00    0.00       3         fann_init_error_data [29]
+-----------------------------------------------
+                0.00    0.00       2/2           main [1]
+[30]     0.0    0.00    0.00       2         fann_destroy_train [30]
+-----------------------------------------------
+                0.00    0.00       2/2           main [1]
+[31]     0.0    0.00    0.00       2         fann_get_bit_fail [31]
+-----------------------------------------------
+                0.00    0.00       1/2           fann_print_connections [48]
+                0.00    0.00       1/2           fann_print_parameters [49]
+[32]     0.0    0.00    0.00       2         fann_get_total_neurons [32]
+-----------------------------------------------
+                0.00    0.00       2/2           fann_read_train_from_file [34]
+[33]     0.0    0.00    0.00       2         fann_read_train_from_fd [33]
+                0.00    0.00       2/3           fann_init_error_data [29]
+-----------------------------------------------
+                0.00    0.00       2/2           main [1]
+[34]     0.0    0.00    0.00       2         fann_read_train_from_file [34]
+                0.00    0.00       2/2           fann_read_train_from_fd [33]
+-----------------------------------------------
+                0.00    0.00       2/2           main [1]
+[35]     0.0    0.00    0.00       2         fann_save [35]
+                0.00    0.00       2/2           fann_save_internal [36]
+-----------------------------------------------
+                0.00    0.00       2/2           fann_save [35]
+[36]     0.0    0.00    0.00       2         fann_save_internal [36]
+                0.00    0.00       2/2           fann_save_internal_fd [37]
+-----------------------------------------------
+                0.00    0.00       2/2           fann_save_internal [36]
+[37]     0.0    0.00    0.00       2         fann_save_internal_fd [37]
+-----------------------------------------------
+                0.00    0.00       2/2           main [1]
+[38]     0.0    0.00    0.00       2         fann_scale_train_data [38]
+                0.00    0.00       4/4           fann_scale_data [28]
+-----------------------------------------------
+                0.00    0.00       1/1           fann_create_shortcut_array [43]
+[39]     0.0    0.00    0.00       1         fann_allocate_connections [39]
+-----------------------------------------------
+                0.00    0.00       1/1           fann_create_shortcut_array [43]
+[40]     0.0    0.00    0.00       1         fann_allocate_neurons [40]
+-----------------------------------------------
+                0.00    0.00       1/1           fann_create_shortcut_array [43]
+[41]     0.0    0.00    0.00       1         fann_allocate_structure [41]
+                0.00    0.00       1/3           fann_init_error_data [29]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[42]     0.0    0.00    0.00       1         fann_create_shortcut [42]
+                0.00    0.00       1/1           fann_create_shortcut_array [43]
+-----------------------------------------------
+                0.00    0.00       1/1           fann_create_shortcut [42]
+[43]     0.0    0.00    0.00       1         fann_create_shortcut_array [43]
+                0.00    0.00       1/1           fann_seed_rand [52]
+                0.00    0.00       1/1           fann_allocate_structure [41]
+                0.00    0.00       1/1           fann_allocate_neurons [40]
+                0.00    0.00       1/1           fann_allocate_connections [39]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[44]     0.0    0.00    0.00       1         fann_destroy [44]
+-----------------------------------------------
+                0.00    0.00       1/1           fann_print_connections [48]
+[45]     0.0    0.00    0.00       1         fann_get_num_output [45]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[46]     0.0    0.00    0.00       1         fann_num_input_train_data [46]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[47]     0.0    0.00    0.00       1         fann_num_output_train_data [47]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[48]     0.0    0.00    0.00       1         fann_print_connections [48]
+                0.00    0.00       1/2           fann_get_total_neurons [32]
+                0.00    0.00       1/1           fann_get_num_output [45]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[49]     0.0    0.00    0.00       1         fann_print_parameters [49]
+                0.00    0.00       1/2           fann_get_total_neurons [32]
+                0.00    0.00       1/102691      fann_get_cascade_num_candidates [16]
+-----------------------------------------------
+                0.00    0.00       1/1           fann_initialize_candidates [26]
+[50]     0.0    0.00    0.00       1         fann_reallocate_connections [50]
+-----------------------------------------------
+                0.00    0.00       1/1           fann_initialize_candidates [26]
+[51]     0.0    0.00    0.00       1         fann_reallocate_neurons [51]
+-----------------------------------------------
+                0.00    0.00       1/1           fann_create_shortcut_array [43]
+[52]     0.0    0.00    0.00       1         fann_seed_rand [52]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[53]     0.0    0.00    0.00       1         fann_set_activation_function_hidden [53]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[54]     0.0    0.00    0.00       1         fann_set_activation_function_output [54]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[55]     0.0    0.00    0.00       1         fann_set_bit_fail_limit [55]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[56]     0.0    0.00    0.00       1         fann_set_cascade_activation_functions [56]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[57]     0.0    0.00    0.00       1         fann_set_cascade_activation_steepnesses [57]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[58]     0.0    0.00    0.00       1         fann_set_cascade_num_candidate_groups [58]
+-----------------------------------------------
+                0.00    0.00       1/1           fann_cascadetrain_on_data [2]
+[59]     0.0    0.00    0.00       1         fann_set_shortcut_connections [59]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[60]     0.0    0.00    0.00       1         fann_set_train_error_function [60]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[61]     0.0    0.00    0.00       1         fann_set_train_stop_function [61]
+-----------------------------------------------
+                0.00    0.00       1/1           main [1]
+[62]     0.0    0.00    0.00       1         fann_set_training_algorithm [62]
+-----------------------------------------------
+
+Index by function name
+
+  [14] fann_activation        [26] fann_initialize_candidates [56] fann_set_cascade_activation_functions
+   [9] fann_activation_derived [27] fann_install_candidate [57] fann_set_cascade_activation_steepnesses
+  [24] fann_add_candidate_neuron [46] fann_num_input_train_data [58] fann_set_cascade_num_candidate_groups
+  [25] fann_add_layer         [47] fann_num_output_train_data [59] fann_set_shortcut_connections
+  [39] fann_allocate_connections [48] fann_print_connections [60] fann_set_train_error_function
+  [40] fann_allocate_neurons  [49] fann_print_parameters  [61] fann_set_train_stop_function
+  [41] fann_allocate_structure [33] fann_read_train_from_fd [62] fann_set_training_algorithm
+   [2] fann_cascadetrain_on_data [34] fann_read_train_from_file [12] fann_test
+  [23] fann_clear_train_arrays [50] fann_reallocate_connections [13] fann_test_data
+  [11] fann_compute_MSE       [51] fann_reallocate_neurons [4] fann_train_candidates
+  [42] fann_create_shortcut   [20] fann_reset_MSE          [3] fann_train_candidates_epoch
+  [43] fann_create_shortcut_array [6] fann_run             [8] fann_train_outputs
+  [19] fann_desired_error_reached [35] fann_save           [7] fann_train_outputs_epoch
+  [44] fann_destroy           [36] fann_save_internal     [15] fann_update_MSE
+  [30] fann_destroy_train     [37] fann_save_internal_fd   [5] fann_update_candidate_slopes
+  [18] fann_get_MSE           [28] fann_scale_data        [21] fann_update_candidate_weights
+  [31] fann_get_bit_fail      [38] fann_scale_train_data  [10] fann_update_slopes_batch
+  [16] fann_get_cascade_num_candidates [52] fann_seed_rand [17] fann_update_weights_irpropm
+  [45] fann_get_num_output    [53] fann_set_activation_function_hidden [22] initialize_candidate_weights
+  [32] fann_get_total_neurons [54] fann_set_activation_function_output
+  [29] fann_init_error_data   [55] fann_set_bit_fail_limit

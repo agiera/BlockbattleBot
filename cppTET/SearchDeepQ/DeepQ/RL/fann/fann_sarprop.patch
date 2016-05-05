@@ -1,0 +1,341 @@
+diff -Naur fann-2.0.0-old/benchmarks/benchmark.sh fann-2.0.0-new/benchmarks/benchmark.sh
+--- fann-2.0.0-old/benchmarks/benchmark.sh	2005-12-15 01:23:12.000000000 +0100
++++ fann-2.0.0-new/benchmarks/benchmark.sh	2006-09-21 17:07:52.687241504 +0200
+@@ -16,6 +16,8 @@
+     #echo "./quality_fixed $prob.$algo.train.out_fixed_train $prob.$algo.train.out_fixed_test $prob.$algo.fixed_train.out $prob.$algo.fixed_test.out *_fixed.net"    	
+     algo="fann_cascade"; benchmark_algorithm;
+     algo="fann_rprop"; benchmark_algorithm;
++    algo="fann_sarprop"; benchmark_algorithm;
++    algo="fann_cascade_sarprop"; benchmark_algorithm;
+     algo="fann_quickprop"; benchmark_algorithm;
+     #algo="fann_quickprop_stepwise"; benchmark_algorithm;
+     algo="fann_batch"; benchmark_algorithm;
+diff -Naur fann-2.0.0-old/benchmarks/quality.cc fann-2.0.0-new/benchmarks/quality.cc
+--- fann-2.0.0-old/benchmarks/quality.cc	2005-11-29 22:33:12.000000000 +0100
++++ fann-2.0.0-new/benchmarks/quality.cc	2006-09-21 17:09:47.712754968 +0200
+@@ -262,7 +262,7 @@
+ 	fann_destroy(ann);
+ }
+ 
+-void quality_benchmark_cascade(struct fann_train_data *train_data,
++void quality_benchmark_cascade(struct fann_train_data *train_data, fann_train_enum training_algorithm,
+ 							   struct fann_train_data *test_data,
+ 							   FILE * train_out, FILE * test_out,
+ 							   unsigned int num_input, unsigned int num_output,
+@@ -279,7 +279,7 @@
+ 
+ 	ann = fann_create_shortcut(2, num_input, num_output);
+ 
+-	fann_set_training_algorithm(ann, FANN_TRAIN_RPROP);
++	fann_set_training_algorithm(ann, training_algorithm);
+ 	fann_set_activation_function_hidden(ann, FANN_SIGMOID_SYMMETRIC);
+ 	fann_set_activation_function_output(ann, FANN_LINEAR_PIECE);
+ 	fann_set_activation_steepness_hidden(ann, 0.5);
+@@ -452,6 +452,8 @@
+ 	struct fann_train_data *train_data, *test_data;
+ 	FILE *train_out, *test_out;
+ 
++	srand(time(NULL));
++
+ 	if(argc != 10)
+ 	{
+ 		printf
+@@ -552,6 +554,14 @@
+ 							   num_neurons_hidden2, train_data->num_output,
+ 							   seconds_of_training, seconds_between_reports);
+ 	}
++	else if(strcmp(argv[1], "fann_sarprop") == 0)
++	{
++		quality_benchmark_fann(false, FANN_TRAIN_SARPROP, NULL, train_data, test_data,
++							   train_out, test_out,
++							   train_data->num_input, num_neurons_hidden1,
++							   num_neurons_hidden2, train_data->num_output,
++							   seconds_of_training, seconds_between_reports);
++	}
+ 	else if(strcmp(argv[1], "fann_rprop_stepwise") == 0)
+ 	{
+ 		quality_benchmark_fann(true, FANN_TRAIN_RPROP, argv[4], train_data, test_data,
+@@ -562,7 +572,14 @@
+ 	}
+ 	else if(strcmp(argv[1], "fann_cascade") == 0)
+ 	{
+-		quality_benchmark_cascade(train_data, test_data,
++		quality_benchmark_cascade(train_data, FANN_TRAIN_RPROP, test_data,
++								  train_out, test_out,
++								  train_data->num_input, train_data->num_output,
++								  seconds_of_training, seconds_between_reports);
++	}
++	else if(strcmp(argv[1], "fann_cascade_sarprop") == 0)
++	{
++		quality_benchmark_cascade(train_data, FANN_TRAIN_SARPROP, test_data,
+ 								  train_out, test_out,
+ 								  train_data->num_input, train_data->num_output,
+ 								  seconds_of_training, seconds_between_reports);
+diff -Naur fann-2.0.0-old/src/fann.c fann-2.0.0-new/src/fann.c
+--- fann-2.0.0-old/src/fann.c	2006-01-06 22:45:28.000000000 +0100
++++ fann-2.0.0-new/src/fann.c	2006-09-21 16:59:49.000773024 +0200
+@@ -1181,7 +1181,14 @@
+ 	ann->rprop_delta_min = 0.0;
+ 	ann->rprop_delta_max = 50.0;
+ 	ann->rprop_delta_zero = 0.5;
+-	
++
++	/* Variables for use with SARPROP training (reasonable defaults) */
++	ann->sarprop_weight_decay_shift = -6.644;
++	ann->sarprop_step_error_threshold_factor = 0.1;
++	ann->sarprop_step_error_shift = 1.385;
++	ann->sarprop_temperature = 0.015;
++	ann->sarprop_epoch = 0;
++
+ 	fann_init_error_data((struct fann_error *) ann);
+ 
+ #ifdef FIXEDFANN
+diff -Naur fann-2.0.0-old/src/fann_cascade.c fann-2.0.0-new/src/fann_cascade.c
+--- fann-2.0.0-old/src/fann_cascade.c	2006-01-06 22:45:28.000000000 +0100
++++ fann-2.0.0-new/src/fann_cascade.c	2006-09-16 14:12:52.489321464 +0200
+@@ -199,7 +199,7 @@
+ float fann_train_outputs_epoch(struct fann *ann, struct fann_train_data *data)
+ {
+ 	unsigned int i;
+-
++	
+ 	fann_reset_MSE(ann);
+ 
+ 	for(i = 0; i < data->num_data; i++)
+@@ -215,6 +215,11 @@
+ 			fann_update_weights_irpropm(ann, (ann->last_layer - 1)->first_neuron->first_con,
+ 										ann->total_connections);
+ 			break;
++		case FANN_TRAIN_SARPROP:
++			fann_update_weights_sarprop(ann, ann->sarprop_epoch, (ann->last_layer - 1)->first_neuron->first_con,
++										ann->total_connections);
++			++(ann->sarprop_epoch);
++			break;
+ 		case FANN_TRAIN_QUICKPROP:
+ 			fann_update_weights_quickprop(ann, data->num_data,
+ 										  (ann->last_layer - 1)->first_neuron->first_con,
+@@ -630,6 +635,11 @@
+ 			fann_update_weights_irpropm(ann, first_cand->first_con,
+ 										last_cand->last_con + ann->num_output);
+ 			break;
++		case FANN_TRAIN_SARPROP:
++			/* TODO: increase epoch? */
++			fann_update_weights_sarprop(ann, ann->sarprop_epoch, first_cand->first_con,
++										last_cand->last_con + ann->num_output);
++			break;
+ 		case FANN_TRAIN_QUICKPROP:
+ 			fann_update_weights_quickprop(ann, num_data, first_cand->first_con,
+ 										  last_cand->last_con + ann->num_output);
+diff -Naur fann-2.0.0-old/src/fann_train.c fann-2.0.0-new/src/fann_train.c
+--- fann-2.0.0-old/src/fann_train.c	2006-01-06 22:45:28.000000000 +0100
++++ fann-2.0.0-new/src/fann_train.c	2006-09-21 17:02:09.148467336 +0200
+@@ -21,6 +21,7 @@
+ #include <stdlib.h>
+ #include <stdarg.h>
+ #include <string.h>
++#include <math.h>
+ 
+ #include "config.h"
+ #include "fann.h"
+@@ -774,6 +775,86 @@
+ 	}
+ }
+ 
++/* INTERNAL FUNCTION
++   The SARprop- algorithm
++*/
++void fann_update_weights_sarprop(struct fann *ann, unsigned int epoch, unsigned int first_weight, unsigned int past_end)
++{
++	/* TODO: seed random number generator; this should currently be done in the enduser apps */
++	fann_type *train_slopes = ann->train_slopes;
++	fann_type *weights = ann->weights;
++	fann_type *prev_steps = ann->prev_steps;
++	fann_type *prev_train_slopes = ann->prev_train_slopes;
++
++	fann_type prev_step, slope, prev_slope, next_step, same_sign;
++
++	/* These should be set from variables */
++	float increase_factor = ann->rprop_increase_factor;	/*1.2; */
++	float decrease_factor = ann->rprop_decrease_factor;	/*0.5; */
++	/* TODO: why is delta_min 0.0 in iRprop? SARPROP uses 1x10^-6 (Braun and Riedmiller, 1993) */
++	float delta_min = 0.000001;
++	float delta_max = ann->rprop_delta_max;	/*50.0; */
++	float weight_decay_shift = ann->sarprop_weight_decay_shift; /* ld 0.01 = -6.644 */
++	float step_error_threshold_factor = ann->sarprop_step_error_threshold_factor; /* 0.1 */
++	float step_error_shift = ann->sarprop_step_error_shift; /* ld 3 = 1.585 */
++	float T = ann->sarprop_temperature;
++	float MSE = fann_get_MSE(ann);
++	float RMSE = sqrt(MSE);
++
++	unsigned int i = first_weight;
++
++
++	/* for all weights; TODO: are biases included? */
++	for(; i != past_end; i++)
++	{
++		/* TODO: confirm whether 1x10^-6 == delta_min is really better */
++		prev_step = fann_max(prev_steps[i], (fann_type) 0.000001);	/* prev_step may not be zero because then the training will stop */
++		/* calculate SARPROP slope; TODO: better as new error function? (see SARPROP paper)*/
++		slope = -train_slopes[i] - weights[i] * exp2(-T * epoch + weight_decay_shift);
++
++		/* TODO: is prev_train_slopes[i] 0.0 in the beginning? */
++		prev_slope = prev_train_slopes[i];
++
++		same_sign = prev_slope * slope;
++
++		if(same_sign > 0.0)
++		{
++			next_step = fann_min(prev_step * increase_factor, delta_max);
++			/* TODO: are the signs inverted? see differences between SARPROP paper and iRprop */
++			if (slope < 0.0)
++				weights[i] += next_step;
++			else
++				weights[i] -= next_step;
++		}
++		else if(same_sign < 0.0)
++		{
++			if(prev_step < step_error_threshold_factor * MSE)
++				next_step = prev_step * decrease_factor + (float)rand() / RAND_MAX * RMSE * exp2(-T * epoch + step_error_shift);
++			else
++				next_step = fann_max(prev_step * decrease_factor, delta_min);
++
++			slope = 0.0;
++		}
++		else
++		{
++			if(slope < 0.0)
++				weights[i] += prev_step;
++			else
++				weights[i] -= prev_step;
++		}
++
++
++		/*if(i == 2){
++		 * printf("weight=%f, slope=%f, next_step=%f, prev_step=%f\n", weights[i], slope, next_step, prev_step);
++		 * } */
++
++		/* update global data arrays */
++		prev_steps[i] = next_step;
++		prev_train_slopes[i] = slope;
++		train_slopes[i] = 0.0;
++	}
++}
++
+ #endif
+ 
+ FANN_GET_SET(enum fann_train_enum, training_algorithm)
+@@ -938,6 +1019,10 @@
+ FANN_GET_SET(float, rprop_decrease_factor)
+ FANN_GET_SET(float, rprop_delta_min)
+ FANN_GET_SET(float, rprop_delta_max)
++FANN_GET_SET(float, sarprop_weight_decay_shift)
++FANN_GET_SET(float, sarprop_step_error_threshold_factor)
++FANN_GET_SET(float, sarprop_step_error_shift)
++FANN_GET_SET(float, sarprop_temperature)
+ FANN_GET_SET(enum fann_stopfunc_enum, train_stop_function)
+ FANN_GET_SET(fann_type, bit_fail_limit)
+ FANN_GET_SET(float, learning_momentum)
+diff -Naur fann-2.0.0-old/src/fann_train_data.c fann-2.0.0-new/src/fann_train_data.c
+--- fann-2.0.0-old/src/fann_train_data.c	2005-11-29 22:33:15.000000000 +0100
++++ fann-2.0.0-new/src/fann_train_data.c	2006-09-16 11:55:57.843137504 +0200
+@@ -153,6 +153,35 @@
+ /*
+  * Internal train function 
+  */
++float fann_train_epoch_sarprop(struct fann *ann, struct fann_train_data *data)
++{
++	unsigned int i;
++
++	if(ann->prev_train_slopes == NULL)
++	{
++		fann_clear_train_arrays(ann);
++	}
++
++	fann_reset_MSE(ann);
++
++	for(i = 0; i < data->num_data; i++)
++	{
++		fann_run(ann, data->input[i]);
++		fann_compute_MSE(ann, data->output[i]);
++		fann_backpropagate_MSE(ann);
++		fann_update_slopes_batch(ann, ann->first_layer + 1, ann->last_layer - 1);
++	}
++
++	fann_update_weights_sarprop(ann, ann->sarprop_epoch, 0, ann->total_connections);
++
++	++(ann->sarprop_epoch);
++
++	return fann_get_MSE(ann);
++}
++
++/*
++ * Internal train function 
++ */
+ float fann_train_epoch_batch(struct fann *ann, struct fann_train_data *data)
+ {
+ 	unsigned int i;
+@@ -200,6 +229,8 @@
+ 		return fann_train_epoch_quickprop(ann, data);
+ 	case FANN_TRAIN_RPROP:
+ 		return fann_train_epoch_irpropm(ann, data);
++	case FANN_TRAIN_SARPROP:
++		return fann_train_epoch_sarprop(ann, data);
+ 	case FANN_TRAIN_BATCH:
+ 		return fann_train_epoch_batch(ann, data);
+ 	case FANN_TRAIN_INCREMENTAL:
+diff -Naur fann-2.0.0-old/src/include/fann_data.h fann-2.0.0-new/src/include/fann_data.h
+--- fann-2.0.0-old/src/include/fann_data.h	2005-12-13 01:20:14.000000000 +0100
++++ fann-2.0.0-new/src/include/fann_data.h	2006-09-16 16:18:43.747355752 +0200
+@@ -77,7 +77,8 @@
+ 	FANN_TRAIN_INCREMENTAL = 0,
+ 	FANN_TRAIN_BATCH,
+ 	FANN_TRAIN_RPROP,
+-	FANN_TRAIN_QUICKPROP
++	FANN_TRAIN_QUICKPROP,
++	FANN_TRAIN_SARPROP
+ };
+ 
+ /* Constant: FANN_TRAIN_NAMES
+@@ -95,7 +96,8 @@
+ 	"FANN_TRAIN_INCREMENTAL",
+ 	"FANN_TRAIN_BATCH",
+ 	"FANN_TRAIN_RPROP",
+-	"FANN_TRAIN_QUICKPROP"
++	"FANN_TRAIN_QUICKPROP",
++	"FANN_TRAIN_SARPROP"
+ };
+ 
+ /* Enums: fann_activationfunc_enum
+@@ -646,6 +648,21 @@
+ 	/* The initial stepsize */
+ 	float rprop_delta_zero;
+         
++	/* Defines how much the weights are constrained to smaller values at the beginning */
++	float sarprop_weight_decay_shift;
++
++	/* Decides if the stepsize is too big with regard to the error */
++	float sarprop_step_error_threshold_factor;
++
++	/* Defines how much the stepsize is influenced by the error */
++	float sarprop_step_error_shift;
++
++	/* Defines how much the epoch influences weight decay and noise */
++	float sarprop_temperature;
++
++	/* Current training epoch */
++	unsigned int sarprop_epoch;
++
+ 	/* Used to contain the slope errors used during batch training
+ 	 * Is allocated during first training session,
+ 	 * which means that if we do not train, it is never allocated.
+diff -Naur fann-2.0.0-old/src/include/fann_internal.h fann-2.0.0-new/src/include/fann_internal.h
+--- fann-2.0.0-old/src/include/fann_internal.h	2006-01-06 22:45:28.000000000 +0100
++++ fann-2.0.0-new/src/include/fann_internal.h	2006-09-16 14:16:50.492139536 +0200
+@@ -90,6 +90,8 @@
+ 							   unsigned int past_end);
+ void fann_update_weights_irpropm(struct fann *ann, unsigned int first_weight,
+ 								 unsigned int past_end);
++void fann_update_weights_sarprop(struct fann *ann, unsigned int epoch, unsigned int first_weight,
++								unsigned int past_end);
+ 
+ void fann_clear_train_arrays(struct fann *ann);

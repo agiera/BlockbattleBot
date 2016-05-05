@@ -1,0 +1,68 @@
+Instructions for creating an entry for the continuous aspect of the NIPS
+benchmarking:
+
+There are two different ways to use the benchmarking software: pipes and
+no-pipes.  These are the instructions for the two different methods:
+
+No pipes:
+1.  Create an agent to learn in one or more (ideally all) of the continuous
+domains.  This agent should be in the file <YourAgent>.cpp in the Agent
+directory.  See Agent/NIPSContinuousRandomAgent.cpp for an example of how to
+implement the required methods.  Note that your agent must return a unique
+string in the agent_get_name() method; this string is used to distinguish your
+results files from everyone elses - please use a descriptive string that
+identifies you, your institution, your agent (especially if you are entering
+multiple agents), and, if possible, a label to distinguish different tunings of
+your parameters (e.g. "tuned_for_MountainCar").  Note that this string will be
+used to create a filename, so no special characters, please.
+
+2. There is a build script (build.bash) in the main distribution directory.
+This script makes use of a configuration file (config.txt) to determine what
+environment and agent to build into an executable.  For each environment in
+which your agent is to enter:
+  a. Find the appropriate config.txt.* file (e.g. config.txt.MountainCarNoPipes)
+     in the configs directory.  Copy it to config.txt in the base directory.
+  b. Replace the line "Agent = Agent/NIPSContinuousRandomAgent.cpp" with the line
+     "Agent = Agent/<YourAgent>.cpp"
+  c. Run build.bash - this creates an executable called RL_main (or RL_main.exe
+     if you are running cygwin) that will execute your agent against the chosen
+     domain
+  d. Run RL_main - this produces an output file in Data called
+     MountainCar_<your_agent_string>.dat (for the MountainCar domain).  Its 3
+     columns represent the average wall time, average reward, and average number
+     of steps taken in each of the 50-episode blocks of the learning process.
+
+3. Submit your Data files.
+
+Pipes:
+1. Do step 1 of the No pipes instructions.
+2. In the Agent directory, there is a makefile (makefileContinuousAgentC) that
+   builds an executable for your agent.  Replace the line
+   "AGENT = NIPSContinuousRandomAgent.cpp" with the line
+   "AGENT = <YourAgent>.cpp".  Make the executable:
+   make -f makefileContinuousAgentC clean
+   make -f makefileContinuousAgentC
+   This creates an executable (in Agent/Build) called RLagent.
+3. You need to build the continuous environments.  In the Env directory, there
+   is a makefile (makefileContinuous) to do so.  Make the executables:
+   make -f makefileContinuous clean
+   make -f makefileContinuous
+   This creates three executables called RLMountainCar, RLCartPole, and
+   RLPuddleWorld.
+4. There is a build script (build.bash) in the main distribution directory.
+   This script makes use of a configuration file (config.txt) to determine what
+   type of executable to build.  For the pipes method, you will only need to
+   build one executable - one that runs a continuous agent against a continuous
+   environment.  Copy configs/config.txt.continuous.CPipes to config.txt in the
+   base directory.  Run build.bash - this creates an executable called RL_main
+   (or RL_main.exe if you are running cygwin) that will be used to run your
+   agent against any of the environments.
+5. For each environment in which your agent is to enter:
+   a. Find the appropriate config.txt.* file (e.g. config.txt.CPipesMountainCar)
+      in the configs directory.  Copy it to config.txt in the base directory.
+   b. Run RL_main - this produces an output file in Data called
+     MountainCar_<your_agent_string>.dat (for the MountainCar domain).  Its 3
+     columns represent the average wall time, average reward, and average number
+     of steps taken in each of the 50-episode blocks of the learning process.
+
+3. Submit your Data files.

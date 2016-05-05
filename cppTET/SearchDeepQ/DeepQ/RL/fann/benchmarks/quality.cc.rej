@@ -1,0 +1,81 @@
+***************
+*** 300,306 ****
+  
+  	ann = fann_create_shortcut(2, num_input, num_output);
+  
+- 	fann_set_training_algorithm(ann, FANN_TRAIN_RPROP);
+  	fann_set_activation_function_hidden(ann, FANN_SIGMOID_SYMMETRIC);
+  	fann_set_activation_function_output(ann, FANN_LINEAR_PIECE);
+  	fann_set_activation_steepness_hidden(ann, 0.5);
+--- 300,306 ----
+  
+  	ann = fann_create_shortcut(2, num_input, num_output);
+  
++ 	fann_set_training_algorithm(ann, training_algorithm);
+  	fann_set_activation_function_hidden(ann, FANN_SIGMOID_SYMMETRIC);
+  	fann_set_activation_function_output(ann, FANN_LINEAR_PIECE);
+  	fann_set_activation_steepness_hidden(ann, 0.5);
+***************
+*** 473,478 ****
+  	struct fann_train_data *train_data, *test_data;
+  	FILE *train_out, *test_out;
+  
+  	if(argc != 10)
+  	{
+  		printf
+--- 473,480 ----
+  	struct fann_train_data *train_data, *test_data;
+  	FILE *train_out, *test_out;
+  
++ 	srand(time(NULL));
++ 
+  	if(argc != 10)
+  	{
+  		printf
+***************
+*** 573,578 ****
+  							   num_neurons_hidden2, train_data->num_output,
+  							   seconds_of_training, seconds_between_reports);
+  	}
+  	else if(strcmp(argv[1], "fann_rprop_stepwise") == 0)
+  	{
+  		quality_benchmark_fann(true, FANN_TRAIN_RPROP, argv[4], train_data, test_data,
+--- 575,588 ----
+  							   num_neurons_hidden2, train_data->num_output,
+  							   seconds_of_training, seconds_between_reports);
+  	}
++ 	else if(strcmp(argv[1], "fann_sarprop") == 0)
++ 	{
++ 		quality_benchmark_fann(false, FANN_TRAIN_SARPROP, NULL, train_data, test_data,
++ 							   train_out, test_out,
++ 							   train_data->num_input, num_neurons_hidden1,
++ 							   num_neurons_hidden2, train_data->num_output,
++ 							   seconds_of_training, seconds_between_reports);
++ 	}
+  	else if(strcmp(argv[1], "fann_rprop_stepwise") == 0)
+  	{
+  		quality_benchmark_fann(true, FANN_TRAIN_RPROP, argv[4], train_data, test_data,
+***************
+*** 583,589 ****
+  	}
+  	else if(strcmp(argv[1], "fann_cascade") == 0)
+  	{
+- 		quality_benchmark_cascade(train_data, test_data,
+  								  train_out, test_out,
+  								  train_data->num_input, train_data->num_output,
+  								  seconds_of_training, seconds_between_reports);
+--- 593,606 ----
+  	}
+  	else if(strcmp(argv[1], "fann_cascade") == 0)
+  	{
++ 		quality_benchmark_cascade(train_data, FANN_TRAIN_RPROP, test_data,
++ 								  train_out, test_out,
++ 								  train_data->num_input, train_data->num_output,
++ 								  seconds_of_training, seconds_between_reports);
++ 	}
++ 	else if(strcmp(argv[1], "fann_cascade_sarprop") == 0)
++ 	{
++ 		quality_benchmark_cascade(train_data, FANN_TRAIN_SARPROP, test_data,
+  								  train_out, test_out,
+  								  train_data->num_input, train_data->num_output,
+  								  seconds_of_training, seconds_between_reports);

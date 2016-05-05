@@ -1,0 +1,8 @@
+Agent_language = c
+Env_language = c
+Agent = Agent/Build/RLagent
+env = Env/Build/RLMountainCar
+main = main_NIPS.cpp
+common = Env/NIPS_continuous_common.h
+
+
